@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "618de92c7905e10b56a76802"
+  },
+  "name": "lime",
+  "cost": "50",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618de9b68ad0838e7467fcf7"
+  },
+  "name": "chicken",
+  "cost": "250",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618de9b68ad0838e7467fcf6"
+  },
+  "name": "chilli",
+  "cost": "50",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618de9b68ad0838e7467fcf5"
+  },
+  "name": "garlic",
+  "cost": "30",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a1802afc1fd018d5b95c14"
+  },
+  "name": "spring onions",
+  "cost": "70",
+  "__v": 0
+}]

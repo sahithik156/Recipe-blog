@@ -1,0 +1,2183 @@
+[{
+  "_id": {
+    "$oid": "617cc9189a2360c5e88d019f"
+  },
+  "name": "Thai green chicken curry",
+  "description": "To make the curry paste, peel, roughly chop and place the garlic, shallots and ginger into a food processor.\n                    Trim the lemongrass, remove the tough outer leaves, then finely chop and add to the processor. Trim and add the chillies along with the cumin and half the coriander (stalks and all). Blitz until finely chopped, add the fish sauce and blitz again.\n                    Slice the chicken into 2.5cm strips. Heat 1 tablespoon of oil in a large pan on a medium heat, add the chicken and fry for 5 to 7 minutes, or until just turning golden, then transfer to a plate.\n                    Tear the mushrooms into even pieces. Return the pan to a medium heat, add the mushrooms and fry for 4 to 5 minutes, or until golden. Transfer to a plate using a slotted spoon.\n                    Reduce the heat to medium-low and add the Thai green paste for 4 to 5 minutes, stirring occasionally.\n                    Pour in the coconut milk and 200ml of boiling water, crumble in the stock cube and add the lime leaves. Turn the heat up and bring gently to the boil, then simmer for 10 minutes, or until reduced slightly.\n                    Stir in the chicken and mushrooms, reduce the heat to low and cook for a further 5 minutes, or until the chicken is cooked through, adding the mangetout for the final 2 minutes.\n                    Season carefully to taste with sea salt and freshly ground black pepper. Pick, roughly chop and stir through the basil leaves and remaining coriander leaves. Serve with lime wedges and steamed rice.\n           \n           \n           \n                    Source: https://www.jamieoliver.com/recipes/chicken-recipes/thai-green-chicken-curry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "chicken",
+    "groundnut oil",
+    "400 g mixed oriental mushrooms",
+    "1 x 400g tin of light coconut milk",
+    "1 organic chicken stock cube",
+    "6 lime leaves",
+    "200 g mangetout",
+    "½ a bunch fresh Thai basil",
+    "lime",
+    "garlic",
+    "2 shallots",
+    "5cm piece of ginger",
+    "2 lemongrass stalks",
+    "4 green Bird's eye chillies",
+    "1 teaspoon ground cumin",
+    "½ a bunch of fresh coriander",
+    "2 tablespoons fish sauce"
+  ],
+  "category": "Thai",
+  "image": "thai-green-chicken-curry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cc9189a2360c5e88d019e"
+  },
+  "name": "Stir-fried Vegetables",
+  "description": "Crush the garlic and finely slice the chilli and spring onion. Peel and finely slice the red onion, and mix with the garlic, chilli and spring onion.\n                Shred the mangetout, slice the mushrooms and water chestnuts, and mix with the shredded cabbage in a separate bowl to the onion mixture.\n                Heat your wok until it’s really hot. Add a splash of oil – it should start to smoke – then the chilli and onion mix. Stir for just 2 seconds before adding the other mix. Flip and toss the vegetables in the wok if you can; if you can’t, don’t worry, just keep the vegetables moving with a wooden spoon, turning them over every few seconds so they all keep feeling the heat of the bottom of the wok. Season with sea salt and black pepper.\n                After a minute or two, the vegetables should have begun to soften. Add the soy sauce and 1 teaspoon of sesame oil and stir in. After about 30 seconds the vegetables should smell amazing! Tip on to a serving dish, sprinkle over some sesame seeds and tuck in.\n        \n        \n                Source: https://www.jamieoliver.com/recipes/vegetables-recipes/stir-fried-vegetables/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "garlic",
+    "chilli",
+    "spring onions",
+    "1 small red onion",
+    "1 handful of mangetout",
+    "a few shiitake mushrooms",
+    "a few water chestnuts",
+    "1 handful of shredded green cabbage",
+    "olive oil",
+    "2 teaspoons soy sauce",
+    "sesame oil",
+    "sesame seeds , to sprinkle on top"
+  ],
+  "category": "Chinese",
+  "image": "stir-fried-vegetables.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cc9189a2360c5e88d019d"
+  },
+  "name": "Vegan Chinese Noodles",
+  "description": "Cook the noodles according to packet instructions, drain well, rinse under cold running water, then set aside.\n        Finely slice or tear the mushrooms, leaving any smaller ones whole. Peel the garlic and deseed the chilli, then finely slice. Peel the ginger and trim the courgettes, then slice both into matchsticks.\n        Pick the coriander leaves and set aside, then finely slice the stalks. Trim and finely slice the spring onions, reserving the green part for later.\n        Heat a good lug of oil in a large wok over a high heat, then add the mushrooms and fry for 3 to 4 minutes, or until slightly softened.\n        Add the chopped garlic, chilli, ginger, courgette, coriander stalks and the white part of the spring onions. Fry for a further 3 minutes, or until softened and lightly golden.\n        Meanwhile, combine the cornflour and 2 tablespoons of water, then mix in the soy, agave syrup, sesame oil and rice wine or sherry. Stir the mixture into the pan and cook for a further 3 minutes, or until thickened.\n        Roughly chop and add the spinach along with the noodles. Toss well to warm through, then tear in most of the coriander leaves.\n        Serve with lime wedges, sambal or chilli sauce and the reserved coriander and spring onions scattered on top.\n\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/vegan-chinese-noodles/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "200 g thin rice noodles",
+    "300 g mixed oriental mushrooms , such as oyster, shitake and enoki, cleaned",
+    "2 cloves of garlic",
+    "1 fresh red chilli",
+    "5 cm piece of ginger",
+    "200 g courgettes",
+    "½ bunch of fresh coriander",
+    "6 spring onions",
+    "groundnut oil , or vegetable oil",
+    "1 teaspoon cornflour",
+    "2 tablespoons low-salt soy sauce",
+    "1 tablespoon agave syrup",
+    "1 teaspoon seasame oil",
+    "½ tablespoon rice wine , or dry sherry",
+    "100 g baby spinach",
+    "2 limes , to serve",
+    "sambal , or hot chilli sauce, to serve"
+  ],
+  "category": "Chinese",
+  "image": "vegan-chinese-noodles.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cd201c49e4e7b0adcfe9d"
+  },
+  "name": "Hot & sour soup",
+  "description": "Peel the garlic and deseed the chillies, then roughly chop and place into a pestle and mortar. Bash with a pinch of salt to a rough paste. Peel, finely chop and add the ginger, then bash until broken down and combined.\n                Finely slice the mushrooms and bamboo shoots. Heat a lug of oil in a large wok or heavy-based saucepan over a medium-high heat, add the mushrooms and fry for 4 minutes, or until lightly golden. Stir in the chilli paste and bamboo shoots and fry for a further minute.\n                Meanwhile, mix together 3 tablespoons of soy, 4 tablespoons of rice wine vinegar, the honey and a good pinch of white pepper. Stir the mixture into the pan and cook for a minute, then pour in the hot stock and bring gently to the boil. Reduce the heat to low and simmer for 10 minutes, or until slightly reduced. Meanwhile, chop the tofu into 1cm cubes, finely slice the spring onions and chives and whisk the egg well.\n                Once reduced, remove the soup from the heat. Using a chopstick, stir the soup in a clockwise direction until you get a little whirlpool, then slowly add the beaten egg, stirring continuously to form thin ribbons. Stir in the tofu and return to the heat for 1 minute to warm through. Season to taste with soy and vinegar, then serve immediately with the spring onions and chives scattered on top.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/hot-sour-soup/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 cloves of garlic",
+    "1-2 fresh red chillies",
+    "sea salt",
+    "freshly ground white pepper",
+    "1 thumb-sized piece of ginger",
+    "250 g shitake mushrooms",
+    "225 g bamboo shoots",
+    "groundnut oil , or vegetable oil",
+    "low-salt soy sauce",
+    "rice wine vinegar",
+    "1 teaspoon runny honey",
+    "1.5 litres hot organic vegetable stock",
+    "150 g firm tofu",
+    "2 spring onions",
+    "½ bunch of chives",
+    "1 large free-range egg"
+  ],
+  "category": "Chinese",
+  "image": "hot-sour-soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cd201c49e4e7b0adcfe9b"
+  },
+  "name": "Chinese steak & tofu stew",
+  "description": "Get your prep done first, for smooth cooking. Chop the steak into 1cm chunks, trimming away and discarding any fat.\n                Peel and finely chop the garlic and ginger and slice the chilli. Trim the spring onions, finely slice the top green halves and put aside, then chop the whites into 2cm chunks. Peel the carrots and mooli or radishes, and chop to a similar size.\n                Place a large pan on a medium-high heat and toast the Szechuan peppercorns while it heats up. Tip into a pestle and mortar, leaving the pan on the heat.\n                Place the chopped steak in the pan with 1 tablespoon of groundnut oil. Stir until starting to brown, then add the garlic, ginger, chilli, the white spring onions, carrots and mooli or radishes.\n                Cook for 5 minutes, stirring regularly, then stir in the chilli bean paste for 30 seconds until dark. Pour in the stock and simmer for 10 minutes.\n                Meanwhile, drain the beans, put them into a pan with the rice and a pinch of sea salt, and cover by 1cm with cold water. Place on a high heat, bring to the boil, then simmer until the water level meets the rice. Cover and leave on the lowest heat for 12 minutes, or until cooked through, stirring occasionally.\n                Taste the stew and season to perfection. Mix the cornflour with 2 tablespoons of cold water until combined, then stir into the stew.\n                Trim and stir in the broccoli. Chop the tofu into 2cm chunks and drop them in, then pop a lid on and keep on a low heat for 5 to 8 minutes while the stew thickens up and the broccoli just cooks through.\n                Serve the stew scattered with the sliced green spring onions, with the sticky rice and beans on the side. Finely crush and scatter over some Szechuan pepper. Nice with drips of chilli oil, to taste.\n\n\n        Source: https://www.jamieoliver.com/recipes/stew-recipes/chinese-steak-tofu-stew/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "250g rump or sirloin steak",
+    "2 cloves of garlic",
+    "4cm piece of ginger",
+    "2 fresh red chilli",
+    "1 bunch of spring onions",
+    "2 large carrots",
+    "250g mooli or radishes",
+    "1 heaped teaspoon Szechuan peppercorns",
+    "groundnut oil",
+    "2 tablespoons Chinese chilli bean paste",
+    "1 litre veg stock",
+    "1 x 400g tin of aduki beans",
+    "250g pudding or risotto rice",
+    "1 tablespoon cornflour",
+    "200g tenderstem broccoli",
+    "350g firm silken tofu"
+  ],
+  "category": "Chinese",
+  "image": "chinese-steak-tofu-stew.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cd201c49e4e7b0adcfe9c"
+  },
+  "name": "Spring Rolls",
+  "description": "Put your mushrooms in a medium-sized bowl, cover with hot water and leave for 10 minutes, or until soft. Meanwhile, place the noodles in a large bowl, cover with boiling water and leave for 1 minute. Drain, rinse under cold water, then set aside.\n                For the filling, finely slice the cabbage and peel and julienne the carrot. Add these to a large bowl with the noodles.\n                Slice the white part of the spring onions on the diagonal and add to the bowl. Finely slice the green parts into ribbons and reserve for later.\n                Peel and grate the ginger, then finely chop the chilli. Roughly chop the herbs and add to the bowl with the ginger and chilli.\n                Crush the peanuts and add to the bowl with the sesame oil, beansprouts, soy and oyster sauces, and mix well.\n                When they’re ready, drain the mushrooms, then chop them and stir into the filling. Season to taste.\n                In a small bowl, blend the cornflour and 2 tablespoons of cold water.\n                Next, lay one spring-roll wrapper, smooth-side down, on a clean surface as a diamond shape, with one corner pointing down towards you. Sprinkle a little of the five spice powder over it, then place another wrapper on top (the extra thickness will stop the rolls from breaking open while cooking).\n                Spoon 2 tablespoons of the filling on the bottom corner of the double wrapper. Brush each corner with the cornflour mixture, then start rolling up from the bottom. When the filling is covered, pull the corners in from each side (to seal the ends as you go). Continue rolling until the filling is tightly covered, then press to seal the top corner.\n                Lay the finished roll on a large baking tray and cover with a damp tea towel. Continue until you’ve filled all the wrappers.\n                Heat the groundnut oil in a large wok or saucepan over a medium heat. To check whether the oil is ready, drop in a piece of potato; it should sizzle and start to turn golden. In small batches, carefully lower the spring rolls into the oil and deep-fry for 2 to 3 minutes, or until golden brown. Remove with a slotted spoon and drain on kitchen paper.\n                Serve with the sweet chilli sauce and reserved sliced spring-onion tops.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/spring-rolls/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "40 g dried Asian mushrooms",
+    "50 g vermicelli noodles",
+    "200 g Chinese cabbage",
+    "1 carrot",
+    "3 spring onions",
+    "5 cm piece of ginger",
+    "1 red chilli",
+    "1 big bunch of fresh Thai basil , (30g)",
+    "1 big bunch of fresh coriander , (30g)",
+    "3 tablespoons toasted peanuts",
+    "20 ml sesame oil",
+    "75 g beansprouts",
+    "2 tablespoons low-salt soy sauce",
+    "2 tablespoons oyster sauce",
+    "1 tablespoon cornflour",
+    "16 large spring-roll wrappers",
+    "1 tablespoon five-spice powder",
+    "1 litre groundnut oil",
+    "sweet chilli sauce"
+  ],
+  "category": "Chinese",
+  "image": "spring-rolls.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617cd201c49e4e7b0adcfe9e"
+  },
+  "name": "Spicy veggie noodles",
+  "description": "Cook the noodles in boiling water for 3 minutes, or until just tender, then drain and refresh under cold water. Drain again, toss in a little oil and put to one side.\n                Drain the tofu well, then pat dry with kitchen paper and chop into 2cm chunks.\n                Trim and chop the mushrooms in half or into quarters through the stalks. Halve, deseed and finely slice the pepper and chilli, trim and finely slice the spring onions. Peel and finely slice the garlic then peel and finely chop the ginger. Drain the water chestnuts.\n                Squeeze the lime juice into a small bowl, mix in the soy, then pick and tear in most of the coriander leaves.\n                Heat a splash of oil in a large non-stick frying pan over a medium heat, add the tofu and mushrooms, spreading them out in a single layer, then fry for a few minutes, or until the tofu is golden all over and mushrooms are juicy, turning occasionally.\n                Scatter over the sesame seeds and toast in the pan with the mushrooms and tofu for 1 minute, then tip out onto a plate and keep warm until needed.\n                Quickly wipe the pan with a ball of kitchen paper, place back on the heat and turn it up to high. Drizzle in a splash more oil, then add the garlic, ginger, chilli and spring onions and fry for 30 seconds, then add the peppers and water chestnuts, and stir-fry until just starting to soften.\n                Add the noodles and cook until hot through, stirring regularly. Turn off the heat and stir through half the soy and lime dressing.\n                Divide the stir-fry between your plates, spoon over the tofu and mushrooms. then drizzle over the remaining dressing. Pick and tear over the remaining coriander, then serve.\n\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/spicy-veggie-noodles-with-seared-mushrooms-tofu/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "150g free-range egg noodles",
+    "olive oil",
+    "150g firm tofu",
+    "150g small chestnut mushrooms",
+    "1 small red pepper",
+    "1 small fresh red chilli",
+    "4 spring onions",
+    "1 clove garlic",
+    "2cm ginger",
+    "1 x 220g tin sliced water chestnuts",
+    "1 lime",
+    "2 tablespoons low-salt soy sauce",
+    "a few sprigs of fresh coriander",
+    "1 tablespoon sesame seeds"
+  ],
+  "category": "Chinese",
+  "image": "spicy-veggie-noodles.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d072cea28a8bc0cbedbd0"
+  },
+  "name": "Thai red chicken soup",
+  "description": "Sit the chicken in a large, deep pan.\n                Carefully halve the squash lengthways, then cut into 3cm chunks, discarding the seeds.\n                Slice the coriander stalks, add to the pan with the squash, curry paste and coconut milk, then pour in 1 litre of water. Cover and simmer on a medium heat for 1 hour 20 minutes.\n                Use tongs to remove the chicken to a platter. Spoon any fat from the surface of the soup over the chicken, then sprinkle with half the coriander leaves.\n                Serve with 2 forks for divvying up the meat at the table. Use a potato masher to crush some of the squash, giving your soup a thicker texture.\n                Taste, season to perfection with sea salt and black pepper, then divide between six bowls and sprinkle with the remaining coriander.\n                Shred and add chicken, as you dig in.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/thai-red-chicken-soup/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 x 1.6 kg whole free-range chicken",
+    "1 butternut squash (1.2kg)",
+    "1 bunch of fresh coriander (30g)",
+    "100 g Thai red curry paste",
+    "1 x 400 ml tin of light coconut milk "
+  ],
+  "category": "Thai",
+  "image": "thai-red-chicken-soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d072cea28a8bc0cbedbd1"
+  },
+  "name": "Veggie pad Thai",
+  "description": "Cook the noodles according to the packet instructions, then drain and refresh under cold running water and toss with 1 teaspoon of sesame oil.\n                Lightly toast the peanuts in a large non-stick frying pan on a medium heat until golden, then bash in a pestle and mortar until fine, and tip into a bowl.\n                Peel the garlic and bash to a paste with the tofu, add 1 teaspoon of sesame oil, 1 tablespoon of soy, the tamarind paste and chilli sauce, then squeeze and muddle in half the lime juice.\n                Peel and finely slice the shallot, then place in the frying pan over a high heat. Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).\n                Add the noodles, sauce, beansprouts, and a good splash of water, toss together over the heat for 1 minute, then divide between serving bowls.\n                Wipe out the pan, crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes. Trim the lettuce, click apart the leaves and place a few in each bowl.\n                Pop the eggs on top, pick over the herbs, and sprinkle with the nuts. Serve with lime wedges for squeezing over, and extra soy, to taste.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "150 g rice noodles",
+    "sesame oil",
+    "20 g unsalted peanuts",
+    "2 cloves of garlic",
+    "80 g silken tofu",
+    "low-salt soy sauce",
+    "2 teaspoons tamarind paste",
+    "2 teaspoons sweet chilli sauce",
+    "2 limes",
+    "1 shallot",
+    "320 g crunchy veg , such as asparagus, purple sprouting broccoli, pak choi, baby corn",
+    "80 g beansprouts",
+    "2 large free-range eggs",
+    "olive oil",
+    "dried chilli flakes",
+    "½ a cos lettuce",
+    "½ a mixed bunch of fresh basil, mint and coriander"
+  ],
+  "category": "Thai",
+  "image": "veggie-pad-thai.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d072cea28a8bc0cbedbd3"
+  },
+  "name": "Vegetable broth",
+  "description": "Peel and crush the garlic, then peel and roughly chop the ginger. Trim the greens, finely shredding the cabbage, if using. Trim and finely slice the spring onions and chilli. Pick the herbs.\n                Bash the lemongrass on a chopping board with a rolling pin until it breaks open, then add to a large saucepan along with the garlic, ginger and star anise.\n                Place the pan over a high heat, then pour in the vegetable stock. Bring it just to the boil, then turn down very low and gently simmer for 30 minutes.\n                A couple of minutes before it’s cooked, throw in your Asian veggies and gently cook until they are wilted but still crunchy.\n                Serve the broth in deep bowls seasoned with fish sauce (if using) and soy sauce, sprinkle with the herbs, cress, spring onion and chilli, then serve with wedges of lime.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "3 cloves of garlic",
+    "5cm piece of ginger",
+    "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+    "2 spring onions",
+    "1 fresh red chilli",
+    "5 sprigs of fresh Thai basil",
+    "1 stick of lemongrass",
+    "2 star anise",
+    "800 ml clear organic vegetable stock",
+    "1 teaspoon fish sauce , (optional)",
+    "1 teaspooon soy sauce",
+    "1 small punnet shiso cress",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "vegetable-broth-thai.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d072cea28a8bc0cbedbd2"
+  },
+  "name": "Chicken & green mango Thai salad",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Place the peanuts on a tray, then place in the oven to roast until golden.\n                For the dressing, mix the fish sauce, rice wine vinegar and 2 tablespoons of lime juice in a small bowl. Grate in the palm sugar, stirring, until completely dissolved (you might need to muddle some of the larger bits).\n                Peel and finely chop the garlic, deseed and finely chop the chilli, then add to the bowl. Taste to make sure the flavours are balanced: it should be zesty, sweet and fresh, with depth from the fish sauce.\n                Place the chicken in a deep pan, cover with water and bring to the boil. Reduce the heat and simmer for 10 to 15 minutes, or until cooked through.\n                Coarsely grate or cut the carrots into matchsticks, then halve, deseed and thinly slice the cucumber on an angle. Peel and finely grate or cut the mango into matchsticks, then pick and roughly chop the mint leaves.\n                Peel and cut the onion into fine wedges, trim and finely dice the spring onions, then halve the tomatoes.\n                Crush the roasted peanuts in a pestle and mortar.\n                Transfer the cooked chicken to a bowl of iced water to cool, then drain and shred the meat and place in a large bowl.\n                Add the chopped vegetables, beansprouts and beancurd (if using) to the bowl with the chicken and toss to combine.\n                Divide among serving plates and drizzle lightly with the dressing. Sprinkle over the peanuts, then tear over the coriander leaves and serve with finely sliced red chilli, if you like.\n\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-green-mango-thai-salad/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 handful of unsalted peanuts",
+    "2 x 300 g free-range chicken breasts",
+    "1-2 carrots",
+    "1 cucumber",
+    "1 green mango",
+    "1 bunch of fresh mint",
+    "1 small red onion",
+    "2 spring onions",
+    "1 handful of cherry tomatoes",
+    "2 tablespoons fish sauce",
+    "3 tablespoons rice wine vinegar",
+    "1 lime",
+    "2 tablespoons palm sugar",
+    "1 clove of garlic",
+    "1-2 fresh green Bird’s Eye chillies"
+  ],
+  "category": "Thai",
+  "image": "chicken-green-mango-thai-salad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d107a94a8b1f16481b048"
+  },
+  "name": "Vegan blueberry pancakes",
+  "description": "Whisk together the ground flaxseed and 2½ tablespoons of cold water, then set aside to thicken. Meanwhile, melt the coconut oil in a small pan over a medium heat, then leave to cool slightly.\n                Combine the soya or almond milk and cider vinegar. Add the melted coconut oil, then whisk in the flaxseed mixture.\n                Combine the flour, sugar, baking powder, bicarbonate of soda and salt, then make a well in the middle. Gradually pour in the wet mixture, stirring continuously until combined – don’t worry if there are still a few lumps. Fold in the blueberries, then set aside.\n                Preheat the oven to its lowest temperature. Heat a splash of vegetable oil in a large frying pan over a medium heat. Add a ladleful of the batter to the pan (one ladleful is enough for one pancake), then add more ladlefuls of the batter, ensuring they’re nicely spaced out – you’ll need to do this in batches.\n                Cook for around 2 minutes, or until golden underneath and little bubbles start to appear on the surface, then use a palette knife to flip them over. Cook for a further 2 minutes, or until golden. Place in the oven to keep warm while you make the remaining pancakes.\n                Serve with a dollop of soya yoghurt, a drizzle of maple syrup and extra blueberries, if you like.\n\n        Source: https://www.jamieoliver.com/recipes/fruit-recipes/vegan-blueberry-pancakes/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 tablespoon ground flaxseed",
+    "1 tablespoon coconut oil",
+    "250 ml unsweetened organic soya milk",
+    "1 teaspoon cider vinegar",
+    "125 g wholemeal flour",
+    "1 teaspoon golden caster sugar",
+    "1 teaspoon baking powder",
+    "¼ teaspoon bicarbonate of soda",
+    "1 pinch of sea salt",
+    "50 g blueberries",
+    "vegetable oil",
+    "organic soya yoghurt",
+    "maple syrup"
+  ],
+  "category": "American",
+  "image": "vegan-bluberry-pancakes.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d107a94a8b1f16481b046"
+  },
+  "name": "Vegan mac 'n' cheese",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4. Cook the macaroni according to the packet instructions in a large pan of salted boiling water.\n                Meanwhile, peel and halve the onion, then place in a small pan over a medium heat with the milk. Slowly bring to the boil, then remove from the heat.\n                Pick out and discard the onion, then set aside. Melt the margarine in another pan over a medium heat, then add the flour, stirring continuously until it forms a paste – this is the roux.\n                Gradually add the warm milk a little at a time, whisking continuously until smooth. Bring to the boil, then simmer for around 10 minutes, or until thickened.\n                Stir in the mustard and nutritional yeast flakes, grate and stir in the vegan cheese (if using), then season to taste with salt and pepper.\n                Drain and add the macaroni to the sauce, then toss to coat. Transfer the mixture to an ovenproof baking dish (roughly 20cm x 30cm), then set aside.\n                Peel and finely slice the garlic, then pick the thyme leaves, discarding the stalks. Add to a medium pan over a medium heat with a splash of oil. Cook for 2 to 3 minutes, or until golden, then transfer to a food processor with the breadcrumbs and a splash of oil. Blitz until combined and roughly chopped, then sprinkle over the pasta.\n                Place the dish in the hot oven for 20 to 25 minutes, or until golden and bubbling. Leave to stand for around 5 minutes, then serve with seasonal greens.\n\n\n        Source: https://www.jamieoliver.com/recipes/pasta-recipes/vegan-mac-n-cheese/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "350 g dried macaroni",
+    "sea salt",
+    "freshly ground black pepper",
+    "1 onion",
+    "1 litre unsweetened organic soya milk",
+    "100 g dairy-free margarine",
+    "85 g plain flour",
+    "1 heaped teaspoon English mustard",
+    "1½ tablespoons nutritional yeast flakes",
+    "50 g vegan cheese",
+    "5 cloves of garlic",
+    "½ a bunch of fresh thyme",
+    "olive oil",
+    "40 g fresh breadcrumbs"
+  ],
+  "category": "American",
+  "image": "vegan-mac-n-cheese.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d107a94a8b1f16481b045"
+  },
+  "name": "Key Lime Pie",
+  "description": "Preheat the oven to 175ºC/gas 3. Lightly grease a 22cm metal or glass pie dish with a little of the butter.\n                For the pie crust, blend the biscuits, sugar and remaining butter in a food processor until the mixture resembles breadcrumbs.\n                Transfer to the pie dish and spread over the bottom and up the sides, firmly pressing down.\n                Bake for 10 minutes, or until lightly browned. Remove from oven and place the dish on a wire rack to cool.\n                For the filling, whisk the egg yolks in a bowl. Gradually whisk in the condensed milk until smooth.\n                Mix in 6 tablespoons of lime juice, then pour the filling into the pie crust and level over with the back of a spoon.\n                Return to the oven for 15 minutes, then place on a wire rack to cool.\n                Once cooled, refrigerate for 6 hours or overnight.\n                To serve, whip the cream until it just holds stiff peaks. Add dollops of cream to the top of the pie, and grate over some lime zest, for extra zing if you like.\n\n        Source: https://www.jamieoliver.com/recipes/fruit-recipes/key-lime-pie/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 large free-range egg yolks",
+    "400 ml condensed milk",
+    "5 limes",
+    "200 ml double cream",
+    "135 g unsalted butter",
+    "12 digestive biscuits",
+    "45 g caster sugar"
+  ],
+  "category": "American",
+  "image": "key-lime-pie.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d107a94a8b1f16481b044"
+  },
+  "name": "Chocolate Banoffe",
+  "description": "Preheat the oven to 170ºC/325ºF/gas 3 and line 2 baking sheets with greaseproof paper.\n                Combine the cocoa powder with a little warm water to form a paste, then add to a bowl with the remaining whoopie ingredients. Mix into a smooth, slightly stiff batter.\n                Spoon equal-sized blobs, 2cm apart, onto the baking sheets, then place in the hot oven for 8 minutes, or until risen and cooked through.\n                Cool for a couple of minutes on the sheets, then move to a wire rack to cool completely.\n                Once the whoopies are cool, spread ½ a teaspoon of dulce de leche on the flat sides.\n                Peel and slice the bananas, then top half the pies with 2 slices of the banana.\n                Sandwich together with the remaining halves, and dust with icing sugar and cocoa powder.\n\n        Source: https://www.jamieoliver.com/recipes/chocolate-recipes/chocolate-amp-banoffee-whoopie-pies/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 heaped tablespoons cocoa powder , plus extra for dusting",
+    "350 g self-raising flour",
+    "175 g sugar",
+    "200 ml milk",
+    "100 ml nut or rapeseed oil",
+    "1 large free-range egg",
+    "240 g dulce de leche",
+    "3 bananas",
+    "icing sugar , for dusting"
+  ],
+  "category": "American",
+  "image": "chocolate-banoffe-whoopie-pies.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617d107a94a8b1f16481b047"
+  },
+  "name": "Quick Tomato Macaroni Cheese",
+  "description": "Preheat your oven to 200ºC/400ºF/gas 6. Get a pan of salted boiling water going and cook your macaroni according to the packet instructions. Meanwhile, break your bread up, place it in the food processor and whiz it up to form breadcrumbs. Set aside. Wash your tomatoes and place them in the food processor with the garlic, basil, sun-dried tomatoes, anchovies and a good pinch of salt and pepper. Whiz up for 30 seconds. Then add 2 handfuls of the Parmesan, the cream, vinegar and grated nutmeg. Whiz until smooth and season carefully to taste so it's really yummy!\n                By this time your macaroni will probably be cooked, so drain it in a colander, saving some of the cooking water. Place the pasta back into the pan and pour over every last bit of the cheesy sauce. You want it to be quite loose because you'll be surprised how quickly the sauce will disappear inside the macaroni and will look dry. So add a few spoonfuls of the reserved cooking water. Now you need to get yourself a baking dish about 8–10cm deep – this could be an earthenware dish or even a shallow ovenproof pan. Pour the pasta straight into your baking dish and break the mozzarella into little pieces over the top. Mix the last handful of Parmesan with the thyme leaves and breadcrumbs and sprinkle evenly over the top of the dish. Drizzle generously with good extra virgin olive oil – this will give you a lovely crunch topping.\n                Place in the preheated oven for 20–25 minutes or until piping hot and golden on top. Serve straight away, sprinkled with a little extra Parmesan. Best eaten with a nice salad – and you'll love it.\n                \n\n        Source: https://www.jamieoliver.com/recipes/pasta-recipes/quick-tomato-macaroni-cheese/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "340 g macaroni",
+    "200 g bread",
+    "800 g super-ripe tomatoes",
+    "1 clove garlic",
+    "2 large handfuls fresh basil",
+    "55 g sun-dried tomatoes",
+    "2 anchovies",
+    "sea salt",
+    "freshly ground black pepper",
+    "3 handfuls Parmesan cheese",
+    "565 ml single cream",
+    "1 tablespoon red wine vinegar",
+    "½ nutmeg",
+    "400 g cow's milk mozzarella",
+    "1 handful fresh thyme",
+    "extra virgin olive oil"
+  ],
+  "category": "American",
+  "image": "quick-tomato-macaroni-cheese.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e07"
+  },
+  "name": "Chicken chow mein",
+  "description": "Put a pan of water on to boil. Peel and finely slice the ginger and garlic, then finely slice the chilli. Trim and finely slice the spring onions.\n                Pick the coriander leaves and put to one side, then finely chop the stalks. Halve the bok choi lengthways. Slice the chicken into finger-sized strips and lightly season.\n                Preheat a wok or large frying pan to high and once it’s very hot, add a good lug of oil and swirl it around. Stir in the chicken and cook for a couple of minutes, or until golden and cooked through.\n                Add the ginger, garlic, chilli, coriander stalks and half the spring onions. Stir-fry for 30 seconds, keeping everything moving round the pan quickly.\n                Cook the noodles and bok choi in the boiling water for just 2 to 3 minutes.\n                Add the cornflour, water chestnuts and their water to the wok and give it another good shake. Remove from the heat and stir in 2 tablespoons of soy sauce. Halve the lime, squeeze the juice of one half into the pan and mix well.\n                Drain the noodles and bok choi in a colander over a bowl, reserving the cooking water. Stir the noodles and bok choi into the pan, with a little cooking water to loosen, if necessary. Have a taste and season with more soy sauce, if needed.\n                Plate up and serve sprinkled with the rest of the spring onions and coriander leaves, with lime wedges on the side for squeezing over.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-chow-mein-with-bok-choi-water-chestnuts/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4cm piece ginger",
+    "2 cloves garlic",
+    "1 fresh red chilli",
+    "2 spring onions",
+    "half bunch coriander",
+    "1 bak choi",
+    "1 large skinless chicen breast",
+    "groundnut oil",
+    "100g free-range egg noodles",
+    "1 heaped teaspoon cornflour",
+    "1 220g tin water chestnuts",
+    "3 tabslespoons soy sauce , low-salt",
+    "1 lime"
+  ],
+  "category": "Chinese",
+  "image": "chow-mein.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e08"
+  },
+  "name": "Stir Fried Pork",
+  "description": "Cook the rice in a pan of boiling salted water over a medium heat for 25 minutes, or until tender, then drain well. Tip back into the pan, season with sea salt and black pepper, cover with a lid and keep to one side.\n                Meanwhile, slice the pork fillet into quarters lengthways, then cut each quarter into 3cm chunks. Place in a mixing bowl with the five-spice, a pinch of salt and pepper and 2 teaspoons of oil, then mix well.\n                Trim and slice 3 of the spring onions diagonally into 3cm pieces. Halve, deseed and chop the pepper into 2cm chunks. Peel and finely slice the garlic, and peel and finely chop the ginger.\n                In a small bowl, mix the soy sauce, cornflour and 175ml of water, then put aside.\n                Heat ½ a tablespoon of oil in a frying pan over a medium heat, add the pork and cashews, then stir-fry for 5 to 6 minutes, or until the pork is browned and almost cooked through, stirring continuously. Spoon onto a plate and return the pan to the heat.\n                Turn the heat up to high, drizzle in a little oil, then add the sliced spring onion and pepper. Stir-fry for 2 minutes, then add the garlic and ginger for 1 further minute, or until golden.\n                Add the soy sauce and cornflour mixture, then cook for 2 to 3 minutes, or until thickened, stirring often.\n                Add the pork and nuts back to the pan, cook for another 2 minutes, stirring often.\n                If needed, add a splash of water and scrape up all the sticky bits from the bottom of the pan, then remove from the heat. Season to taste.\n                Divide the rice between your bowls and spoon the Chinese-style pork over the top. Finely slice and scatter over the remaining spring onion and serve with lime wedges for squeezing over.\n\n        Source: https://www.jamieoliver.com/recipes/pork-recipes/chinese-style-stir-fried-pork-with-peppers-cashews/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "160g brown basmati rice",
+    "200g higher-welfare pork fillet",
+    "1½ teaspoons Chinese five-spice",
+    "vegetable oil",
+    "4 spring onions",
+    "1 yellow pepper",
+    "2 cloves of garlic",
+    "4 cm piece of ginger",
+    "2 tablespoons soy sauce",
+    "1 teaspoon cornflour",
+    "50g cashew nuts",
+    "1 lime"
+  ],
+  "category": "Chinese",
+  "image": "stir-fried-pork.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0b"
+  },
+  "name": "Chinese Chicken Noodles",
+  "description": "Pull the skin off the chicken. Place the skin in a large non-stick frying pan on a medium heat to render and get golden, turning occasionally.\n                Cut the bones out of the thighs and chuck into the pan for bonus flavour, then chop the meat into 2cm pieces.\n                Move the skin and bones to one side of the pan, then add the meat alongside and cook for 5 minutes, or until golden, stirring occasionally.\n                Once crispy, remove, chop and reserve the skin, discarding the bones.\n                Meanwhile, cook the noodles in boiling salted water according to the packet instructions. Halve the sugar snaps lengthways.\n                Once soft, drain the noodles, reserving a mugful of cooking water, then refresh under cold water.\n                Use scissors to snip the noodles into roughly 8cm lengths.\n                Stir the Worcestershire sauce and chilli jam into the chicken pan and let the jam melt, then add the sugar snaps and noodles.\n                Toss over the heat for 2 minutes, adding a splash of reserved noodle water to loosen, if needed.\n                Taste and season to perfection with sea salt and black pepper, then dish up and sprinkle over the reserved crispy chicken skin.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/sweet-sour-chicken-noodles/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 x 200 g free-range chicken thighs , skin on, bone in",
+    "150 g fine rice noodles",
+    "200 g sugar snap peas",
+    "2 tablespoons Worcestershire sauce",
+    "2 teaspoons chilli jam"
+  ],
+  "category": "Chinese",
+  "image": "chinese-chicken-noodles.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e09"
+  },
+  "name": "Szechuan sweet and sour prawns",
+  "description": "Peel and slice the pineapple lengthways into 8 wedges, then cut out and discard the woody core. Preheat a large griddle pan over a high heat, add the pineapple for 4 minutes, or until charred and bar-marked, turning occasionally, then remove to a board to cool. Meanwhile, halve, deseed and finely slice the peppers lengthways. Add to the griddle for about 3 minutes, or until slightly softened and bar-marked, turning halfway.\n                Peel the garlic and deseed the chillies, then roughly chop and place into a pestle and mortar. Bash with a pinch of salt to a rough paste. Peel, finely chop and add the ginger, then bash until broken down and combined. Place the chilli paste into a large bowl with the prawns and a splash of oil, then mix well.\n                Heat a lug of oil in a large wok or non-stick frying pan over a medium-high heat. Add the prawn mixture and fry for 3 to 4 minutes, or until just cooked through. Meanwhile, chop the cooled pineapple into bite-sized chunks. In a bowl, combine the pineapple juice, vinegar, soy, cornflour and a splash of water, then add to the wok with the chargrilled pineapple and peppers. Bring to the boil, then simmer over a low heat for about 2 minutes, or until thickened and reduced. Pick over the coriander leaves, then serve with steamed rice.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/szechuan-sweet-sour-prawns/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "300 g pineapple",
+    "1 red pepper",
+    "1 yellow pepper",
+    "2 cloves of garlic",
+    "1-2 fresh red chillies",
+    "sea salt",
+    "1 thumb-sized piece of ginger",
+    "24 peeled raw king prawns",
+    "groudnut oil , or vegetable oil",
+    "150 ml unsweetened pineapple juice",
+    "3 tablespoons white wine vinegar",
+    "1 tablespoon low-salt soy sauce",
+    "½ tablespoon cornflour",
+    "½ bunch of fresh coriander"
+  ],
+  "category": "Chinese",
+  "image": "szechuan-sweet-and-sour-prawns.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0a"
+  },
+  "name": "Mini Salad",
+  "description": "Peel and very finely chop the ginger and deseed and finely slice the chilli (deseed if you like). Toast the sesame seeds in a dry frying pan until lightly golden, then remove to a bowl.\n                Mix the prawns with the five-spice and ginger, finely grate in the lime zest and add a splash of sesame oil. Toss to coat, then leave to marinate.\n                Trim the lettuces, discarding any tatty outer leaves, then click the leaves apart. Pick out 12 nice-looking inner leaves (save the remaining lettuce for another recipe).\n                Cook the noodles according to the packet instructions, then drain and toss in a little sesame oil. Leave to cool, then squeeze over the lime juice.\n                Scatter over the chilli and sesame seeds, then pick over the coriander leaves. Mix well.\n                Stir-fry the marinated prawns in a hot wok or frying pan over a high heat for 2 to 3 minutes, or until just cooked.\n                Pile pinches of noodle salad onto the lettuce leaves, and top each with a couple of prawns, then tuck in.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/asian-pinch-salad/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "5 cm piece of ginger",
+    "1 fresh red chilli",
+    "25 g sesame seeds",
+    "24 raw peeled king prawns",
+    "1 pinch Chinese five-spice powder",
+    "1 lime",
+    "sesame oil",
+    "2 round lettuces",
+    "50 g fine rice noodles",
+    "½ a bunch of fresh coriander"
+  ],
+  "category": "Chinese",
+  "image": "mini-salad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0c"
+  },
+  "name": "Tofu Fried Rice",
+  "description": "Put a large non-stick frying pan on a medium-high heat.\n                Trim and finely slice the spring onions and fry with 1 tablespoon of olive oil for 1 minute.\n                Add the rice, chilli jam, a splash of water and a pinch of sea salt and black pepper, then toss for 2 minutes until everything is well coated.\n                Push the rice to the sides of the pan, making a big well in the middle. Crack the eggs into the well, then use a rubber spatula to start gently moving the eggs around to create big curds.\n                Break in the tofu, then fold the rice back through the egg until it’s all looking good. Taste and season to perfection.\n                Lightly oil the inside of a bowl, add the stir-fried rice, gently compacting it with the spatula, then proudly turn out on to a plate.\n\n        Source: https://www.jamieoliver.com/recipes/rice-recipes/tofu-fried-rice/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "6 spring onions",
+    "1 x 250 g sachet of cooked brown basmati rice",
+    "2 heaped teaspoons chilli jam",
+    "2 large free-range eggs",
+    "150 g firm silken tofu"
+  ],
+  "category": "Chinese",
+  "image": "tofu-fried-rice.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0f"
+  },
+  "name": "Vegetable Balls",
+  "description": "Cook the noodles according to the packet instructions, then drain and roughly chop.\n                Trim and coarsely grate the carrot, then trim and finely slice the spring onions, and add to a bowl.\n                Peel and finely chop the ginger, and finely chop the coriander (stalks and all), then add to the bowl with the drained noodles. Mix together gently.\n                Add a good pinch of sea salt, the five-spice, white pepper and flour, and gently fold together, adding 150ml of water, continuing to gently fold and mix together – don’t overmix, or the balls will become dense.\n                Half-fill a large sturdy pan with oil and gently bring up to 190ºC (or use a deep fryer).\n                Working in batches, carefully drop small balls (around 1 level tablespoon each) of the mixture into the hot oil – don’t worry about them being perfectly shaped.\n                Cook for 4 to 5 minutes, or until golden and crisp, then drain on kitchen paper, separating with wooden chopsticks if they start to stick together. Keep warm in a low oven while you cook the remaining batches, if needed.\n                Serve with sweet chilli sauce for dipping. Delicious served alongside Prawn dumplings as part of a dim sum selection.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/vegetable-balls/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "50 g fine dried vermicelli noodles",
+    "300 g carrots",
+    "6 spring onions",
+    "5 cm piece of ginger",
+    "1 big bunch of fresh coriander",
+    "¼ teaspoon Chinese five-spice",
+    "¼ teaspoon ground white pepper",
+    "200 g self-raising flour",
+    "vegetable oil",
+    "sweet chilli sauce"
+  ],
+  "category": "Chinese",
+  "image": "vegetable-balls.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0d"
+  },
+  "name": "Simple Noodle Soup",
+  "description": "Trim and finely slice the spring onions. Finely slice the lemongrass (if using), peel and finely chop the garlic and deseed and finely slice the chilli. Pick the coriander leaves.\n                Bring the stock to boil in a large saucepan then reduce to a simmer.\n                Separate the bok choy leaves (use other greens or frozen peas instead, if you prefer), rinse them and add to the stock together with the prawns, spring onions, lemongrass and garlic.\n                Cook for a couple of minutes, until the prawns have turned pink and the bok choy has wilted.\n                Divide the vermicelli between 4 bowls and ladle over the soup.\n                Scatter the chilli and coriander on top and season with soy and lime juice.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/simple-noodle-soup/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 spring onions",
+    "2 cloves of garlic",
+    "2 fresh red chillies",
+    "a few sprigs of fresh coriander",
+    "1 litre organic chicken stock",
+    "1 bok choy",
+    "225 g raw frozen prawns",
+    "300 g ready-prepared rice vermicelli",
+    "1 splash of soy sauce",
+    "½ a lime"
+  ],
+  "category": "Chinese",
+  "image": "simple-noodle-soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61892bf2fb21e761ccf78e0e"
+  },
+  "name": "Noodle Salad",
+  "description": "Soak the noodles in a bowl of warm water until soft, then drain and put back in the bowl. In a hot wok fry the beef and five-spice in the olive oil until brown and crisp, then add the garlic, ginger, prawns and sugar and stir-fry for another 4 minutes. Remove from the heat and stir the wok mixture into the noodles. Add the spring onions, lime juice, fish sauce, chillies, coriander, mint and peanuts to the bowl. Toss well and correct the seasoning — it wants to be quite zingy with the lime juice. Sprinkle with some extra herb leaves if you like and serve cold.\n                Try this: You can modify the recipe by using a little wok-fried squid, shellfish or different minced meats.\n\n        Source: https://www.jamieoliver.com/recipes/beef-recipes/fresh-asian-noodle-salad/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "300 g cellophane noodles or beanthread noodles",
+    "200 g quality minced beef",
+    "2 teaspoons five-spice",
+    "5 tablespoons olive oil",
+    "2 cloves garlic",
+    "2 heaped teaspoons grated fresh ginger",
+    "100 g cooked peeled prawns",
+    "3 teaspoons sugar",
+    "1 bunch spring onions , finely sliced",
+    "3 tablespoons fresh lime juice",
+    "1 tablespoon fish sauce",
+    "2 fresh red chillies",
+    "1 handful fresh coriander",
+    "1 handful fresh mint",
+    "2 handfuls roasted peanuts",
+    "sea salt",
+    "freshly ground black pepper"
+  ],
+  "category": "Chinese",
+  "image": "noodle-salad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fcc"
+  },
+  "name": "Barbecued Chicken Legs",
+  "description": "Slash the chicken legs all over with a knife.\n                Pick the coriander leaves and put them to one side, then add the stalks to a food processor with the lemongrass.\n                Peel the garlic and ginger, then finely grate into the processor with the lime zest.\n                Squeeze in the lime juice, trim and add the chilli (deseed if you like), then drizzle in 2 tablespoons of oil, and whiz to a paste.\n                Rub the paste into the slashes on the chicken, place in a roasting tray, cover, and leave to marinate in the fridge for at least 2 hours, preferably overnight.\n                When you’re ready, light the barbecue and prepare a hot side and a cooler side.\n                Place the roasting tray on the edge of the barbie so the chicken starts to cook gently without colouring too much.\n                When the legs are about half cooked, transfer them directly onto the bars of the barbecue and grill until golden and cooked through, turning regularly – use your instincts, moving the chicken to the cooler side, if needed.\n                Sprinkle the coriander leaves over, then serve (with a stack of napkins!).\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/barbecued-thai-chicken-legs/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 free-range chicken legs",
+    "1 bunch of fresh coriander",
+    "2 sticks of lemongrass",
+    "3 cloves of garlic",
+    "5 cm piece of ginger",
+    "2 limes",
+    "1 fresh green chilli",
+    "sunflower oil"
+  ],
+  "category": "Thai",
+  "image": "barbecued-chicken-legs.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fcf"
+  },
+  "name": "Sizzling Steak Stir Fry",
+  "description": "Trim the broccoli, cutting any larger broccoli stems in half lengthways, then place in a heatproof bowl and cover with boiling water. Add a good pinch of sea salt and leave for 10 minutes, then drain and put to one side. Half-fill a pan with water and bring to the boil.\n                Slice the steaks against the grain into finger-sized strips and season with sea salt and black pepper.\n                Pound the coriander seeds in a pestle and mortar, or bash with the base of a pan, until fine. Sprinkle over the steak so they stick to it and give it a lovely, fragrant flavour.\n                Drop the noodles into the pan of boiling salted water and cook until just tender. Drain, then toss with 2 teaspoons of sesame oil and return to the pan. Cover to keep warm.\n                Peel and finely slice the onion and garlic, then peel and finely chop the ginger.\n                Heat a splash of olive oil in a wok or large frying pan over a high heat, then add the onions, garlic and ginger. Fry for a couple of minutes, or until the onions have softened slightly.\n                Add the seasoned pieces of steak and stir-fry for 1 to 2 minutes, then add the broccoli and fry for a further 2 minutes, stirring constantly.\n                Pour in the soy sauce and 1 teaspoon of sesame oil, toss in the pan until everything is well coated, then serve with the egg noodles.\n                Cut the lime into wedges for squeezing over, and finely slice the chilli (deseed if you like), then sprinkle over the top.\n                \n\n        Source: https://www.jamieoliver.com/recipes/beef-recipes/sizzling-steak-stir-fry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "320 g tenderstem broccoli",
+    "2 x 250 g lean flank steak",
+    "2 teaspoons coriander seeds",
+    "250 g medium free-range egg noodles",
+    "3 teaspoons sesame oil",
+    "1 red onion",
+    "2 cloves of garlic",
+    "6 cm piece of fresh ginger",
+    "olive oil",
+    "3 tablespoons soy sauce",
+    "1 lime",
+    "1 fresh red chilli"
+  ],
+  "category": "Thai",
+  "image": "sizzling-steak-stir-fry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fcb"
+  },
+  "name": "Thai Green Curry",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4.\n                Wash the squash, carefully cut it in half lengthways and remove the seeds, then cut into wedges. In a roasting tray, toss with 1 tablespoon of groundnut oil and a pinch of sea salt and black pepper, then roast for around 1 hour, or until tender and golden.\n                For the paste, toast the cumin seeds in a dry frying pan for 2 minutes, then tip into a food processor.\n                Peel, roughly chop and add the garlic, shallots and ginger, along with the kaffir lime leaves, 2 tablespoons of groundnut oil, the fish sauce, chillies (pull off the stalks), coconut and most of the coriander (stalks and all).\n                Bash the lemongrass, remove and discard the outer layer, then snap into the processor, squeeze in the lime juice and blitz into a paste, scraping down the sides halfway.\n                Put 1 tablespoon of groundnut oil into a large casserole pan on a medium heat with the curry paste and fry for 5 minutes to get the flavours going, stirring regularly.\n                Tip in the coconut milk and half a tin’s worth of water, then simmer and thicken on a low heat for 5 minutes.\n                Stir in the roasted squash, roughly chop and add the leftover greens and leave to tick away on the lowest heat, then taste and season to perfection.\n                Meanwhile, cube the tofu and fry in a pan on a medium- high heat with 1 tablespoon of groundnut oil for 2 minutes, or until golden.\n                Crush the peanuts in a pestle and mortar and toast in the tofu pan until lightly golden.\n                Serve the curry topped with the golden tofu and peanuts, drizzled with a little sesame oil. Slice the chilli and sprinkle over with the reserved coriander leaves. Serve with lime wedges, for squeezing over. Great with sticky rice.\n\n        Source: https://www.jamieoliver.com/recipes/butternut-squash-recipes/thai-green-curry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 butternut squash",
+    "groundnut oil",
+    "2x 400 g tins of light coconut milk",
+    "400 g leftover broccoli",
+    "350 g firm silken tofu",
+    "75 g unsalted peanuts",
+    "sesame oil",
+    "1 fresh red chilli",
+    "2 limes",
+    "1 teaspoon cumin seeds",
+    "2 cloves garlic",
+    "2 shallots",
+    "5 cm piece of ginger",
+    "4 lime leaves",
+    "2 tablespoons fish sauce",
+    "4 fresh green chillies",
+    "2 tablespoons desiccated coconut",
+    "1 bunch fresh coriander",
+    "1 stick lemongrass"
+  ],
+  "category": "Thai",
+  "image": "thai-green-curry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fcd"
+  },
+  "name": "Fried Eggs",
+  "description": "Trim the spring onions, very finely slice at an angle with the chillies, pop both into a bowl of ice-cold water, add a swig of red wine vinegar and put aside.\n                Place a large non-stick frying pan on a medium-high heat and lightly toast the sesame seeds for 1 minute.\n                Drizzle in 1 tablespoon of olive oil, then crack in the eggs. Put a lid on the pan, and fry to your liking.\n                Place the eggs on your plates – I like one facing up and one facing down.\n                From a height, drizzle over the hoisin (loosening with a splash of water first, if needed).\n                Drain and scatter over the spring onions and chillies, stab the yolks, and enjoy.\n\n        Source: https://www.jamieoliver.com/recipes/egg-recipes/asian-fried-eggs/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 springs onions",
+    "1 -2 fresh mixed-colour chillies",
+    "2 heaped tablespoons mixed sesame seeds",
+    "4 large free-range eggs",
+    "2 tablespoons hoisin sauce "
+  ],
+  "category": "Thai",
+  "image": "fired-eggs.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fd3"
+  },
+  "name": "Ginger and Honey Chicken Wings",
+  "description": "Trim and finely slice the spring onions and chilli, placing them into a bowl with the honey and soy sauce. Peel, then grate in the ginger, and pick in the thyme leaves. Mix well.\n                Place the chicken sings in a single layer in a wide, shallow, non-reactive dish. Pour or brush over the marinade, cover and place in the fridge to marinate for 24 hours.\n                Cook the wings on a hot barbecue or griddle pan for 15 to 20 minutes, or until dark and the juices run clear, turning often. If cooking on a griddle, finish the wings in the oven at 180ºC/350ºF/gas 4 for 10 to 15 minutes to make sure they’re cooked through.\n                \n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/ginger-honey-chicken-wings/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "24 higher-welfare chicken wings",
+    "5 spring onions",
+    "1 fresh red chilli",
+    "5 tablespoons runny honey",
+    "2 tablespoons soy sauce",
+    "2 cm piece of ginger",
+    "5 sprigs of fresh thyme "
+  ],
+  "category": "Thai",
+  "image": "ginger-and-honey-chicken-wings.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fca"
+  },
+  "name": "Thai style mussels",
+  "description": "Wash the mussels thoroughly, discarding any that aren’t tightly closed.\n                Trim and finely slice the spring onions, peel and finely slice the garlic. Pick and set aside the coriander leaves, then finely chop the stalks. Cut the lemongrass into 4 pieces, then finely slice the chilli.\n                In a wide saucepan, heat a little groundnut oil and soften the spring onion, garlic, coriander stalks, lemongrass and most of the red chilli for around 5 minutes.\n                Add the coconut milk and fish sauce and bring to the boil, then add the mussels and cover the pan.\n                Steam the mussels for 5 minutes, or until they've all opened and are cooked. Discard any unopened mussels.\n                Finish with a squeeze of lime juice, then sprinkle with coriander leaves and the remaining chilli to serve.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/thai-style-mussels/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 kg mussels",
+    "4 spring onions",
+    "2 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "1 stick of lemongrass",
+    "1 fresh red chilli",
+    "groundnut oil",
+    "1 x 400 ml tin of reduced fat coconut milk",
+    "1 tablespoon fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "thai-style-mussels.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fce"
+  },
+  "name": "Chicken Rice Balls",
+  "description": "Cook the rice according to the packet instructions. Drain and leave to cool, then chill until needed.\n                Pick half of the coriander leaves, pop them in a bowl of ice-cold water and set aside. Put the remaining leaves in a food processor along with the cooled rice.\n                Thinly slice the spring onions. Roughly chop the chicken, bash and roughly chop the lemongrass, then peel and roughly chop the ginger. Peel the garlic.\n                Place it all into the food processor with the lime leaves (remove the stems) and pulse until smooth.\n                Tip the mixture onto a board. With wet hands, divide it into 16 pieces and roll each into a ball. Place them on a plate and chill, covered, until needed.\n                Place a large casserole pan over a medium-high heat and add a splash of sunflower oil. Fry the rice balls for 5 minutes, or until golden brown all over.\n                Peel the prawns, using a sharp knife to remove any black bits, then add to the pan and stir-fry for 1 minute. Stir in the miso paste and pour in 1.2 litres of boiling water. Simmer for 10 minutes.\n                Cut each pak choi into 6 pieces, then halve the mangetout lengthways. Add them to the pan for the last 2 minutes. Stir in the beansprouts for the last 30 seconds and season with a splash of soy sauce.\n                Thinly slice the remaining spring onions and finely slice the chilli. Divide the broth, balls, veg and prawns between four warmed bowls. Sprinkle over the spring onions, chilli and drained coriander and serve immediately with lime wedges.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/asian-chicken-rice-balls-broth/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "130 g brown rice",
+    "1 big bunch of coriander",
+    "6 spring onions",
+    "4 chicken thighs",
+    "1 stick of lemongrass",
+    "5cm piece of ginger",
+    "2 cloves of garlic",
+    "4 lime leaves",
+    "sunflower oil",
+    "8 large raw king prawns",
+    "2½ tablespoons miso paste",
+    "2 pak choi",
+    "250 g mangetout",
+    "1 handful of beansprouts",
+    "low-salt soy sauce",
+    "1 fresh red chilli",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "chciken-rice-balls.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fd2"
+  },
+  "name": "Prawn and tofu pad",
+  "description": "Cook the rice noodles according to the packet instructions.\n                Meanwhile, make the tamarind sauce. Coarsely grate the palm sugar into a bowl, add the tamarind paste, 1 tablespoon of fish sauce, a dash of vinegar and 2 tablespoons of boiling water and mix well so the sugar dissolves. Taste, and adjust the flavours if needed – you’re looking for sweet, sour and slightly salty.\n                Halve, deseed and finely slice the chillies, then place in a bowl with the juice from 1 lime to make a quick pickle.\n                Drain the noodles and toss in a little oil.\n                Peel and roughly chop the shallots, then trim and finely slice the chives. Pick and roughly chop most of the basil and mint leaves.\n                Slice the tofu into rough 1cm chunks. Run the tip of a knife down the back of each prawn and pull out the vein, meaning they’ll butterfly as they cook. Rinse the dried shrimps under cold running water, then pat dry with kitchen paper.\n                Place a large wok on a medium heat with a splash of oil, then add the dried shrimps, peanuts and chilli flakes. Toss for 2 to 3 minutes, or until golden.\n                Take the pan off the heat, transfer half the mixture to a pestle and mortar and lightly crush, keeping to one side. Return the pan to a medium-high heat with another splash of oil, adding the shallots to the mix. Fry for 2 minutes, or until turning golden.\n                Toss in the prawns, chives, chopped herbs and shredded radish, then cook for a further 2 to 3 minutes, or until the prawns are almost cooked through.\n                Beat and add the egg, cook for 1 to 2 minutes, then fold through and toss in the tofu, noodles, beansprouts and tamarind sauce until well combined.\n                Divide the pad Thai between bowls, sprinkle over the crushed nut mixture from the mortar and pick over the remaining mint and basil leaves. Serve with the quick pickled chillies and lime wedges for squeezing over. Delicious!\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/prawn-tofu-pad-thai/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "150 g flat rice noodles",
+    "1 fresh bird's-eye chilli",
+    "1 fresh yellow chilli",
+    "2 limes",
+    "groundnut oil",
+    "2 red shallots",
+    "½ a bunch each of Chinese chives",
+    "140 g silken tofu",
+    "4 large raw peeled Tiger prawns",
+    "25 g dried shrimps",
+    "50 g shelled unsalted peanuts",
+    "1 pinch of dried chilli flakes",
+    "1 tablespoon jarred shredded sweet radish",
+    "1 large free-range egg",
+    "60 g beansprouts",
+    "25 g palm sugar",
+    "2 tablespoons tamarind paste",
+    "fish sauce",
+    "white wine vinegar"
+  ],
+  "category": "Thai",
+  "image": "prawn-and-tofu-pad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fd0"
+  },
+  "name": "Steamed Sea Bass and Rice",
+  "description": "Preheat the oven to 200ºC/400ºF/gas 6. In a food processor or liquidizer, whiz up the coriander stalks, half of the coriander leaves, the ginger, garlic, halved chillies, sesame oil, soy sauce, lime juice and zest and the coconut milk. This will give you a lovely fragrant Thai-style paste.\n                Cook your rice in salted, boiling water until it’s just undercooked, then drain it in a colander. Scoop it into a high-sided roasting tray. Pour your Thai paste over the rice and mix it in well, then shake it out flat. Lay the sea bass fillets on top, scatter over the sugar snap peas or mangetouts, then cover the dish tightly with tinfoil and put it in the preheated oven for around 15 minutes. Remove the foil and sprinkle over the spring onions, the sliced chilli and the other half of the coriander leaves. Divide between your plates with a wedge of lime.\n\n        Source: https://www.jamieoliver.com/recipes/fish-recipes/steamed-thai-style-sea-bass-and-rice/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 large bunches fresh coriander",
+    "2 thumb-sized pieces fresh ginger",
+    "3 cloves garlic , peeled",
+    "2 fresh red chillies",
+    "2 teaspoons sesame oil",
+    "6 tablespoons soy sauce",
+    "2 limes",
+    "400 ml light coconut milk",
+    "400 g basmati rice",
+    "sea salt",
+    "freshly ground black pepper",
+    "4 x 170 g sea bass fillets",
+    "1 handful sugar snap peas",
+    "1 bunch spring onions",
+    "1-2 fresh red chillies"
+  ],
+  "category": "Thai",
+  "image": "steamed-sea-bass-and-rice.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189356cf1c81c3cba352fd1"
+  },
+  "name": "Prawn and coconut curry",
+  "description": "Peel the onion and finely slice along with the chillies. Peel and finely chop the garlic and ginger. Discard the outer layer of the lemongrass and finely chop.\n                Drizzle 1 to 2 teaspoons of oil into a pan and sauté the onion, garlic, chilli, ginger, lemongrass and lime leaves (if using) over a medium heat for 4 to 5 minutes, until soft but not coloured.\n                Add the prawns, vegetables, coconut cream and stock (or 100ml of water) to the pan. Bring to a gentle simmer and cook for 3 to 5 minutes, or until the prawns are cooked through and the vegetables are tender.\n                Take the pan off the heat and add a splash of fish sauce and a squeeze of lime juice to taste.\n                Serve on a bed of rice (I like to garnish with sliced red chilli and coriander leaves) and lime wedges for squeezing over.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/prawn-amp-coconut-curry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 large onion",
+    "2 cloves of garlic",
+    "1-2 fresh red chillies",
+    "3cm piece of ginger",
+    "½ stalk of lemongrass",
+    "groundnut oil",
+    "2 lime leaves , optional",
+    "400 g raw king prawns",
+    "200 g sugarsnap peas",
+    "100 g peas",
+    "50 g coconut cream",
+    "100 ml organic vegetable stock",
+    "Thai fish sauce",
+    "1 lime"
+  ],
+  "category": "Thai",
+  "image": "prawn-and-coconut-curry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84ddb"
+  },
+  "name": "Chicken and Herb Biscuits",
+  "description": "For the biscuits, pick and finely chop the herb leaves, then combine with the flour, baking powder and 1½ teaspoons sea salt.\n                Cut the butter into chunks, and work into the flour with your fingers until the mixture forms big crumbs, the size of small peas.\n                Add the cream and mix until evenly incorporated and slightly sticky.\n                Turn out onto a lightly flour-dusted board and pat into a 2.5cm-thick circle. Using a 5cm-diameter cutter, cut into 12 to 14 rounds.\n                Trim and finely chop the celery, then peel and finely chop the onion. Peel the squash, then cut into 2.5cm pieces along with the carrots.\n                Heat 1 tablespoon of oil in a large saucepan over a medium heat, and add the celery and onion. Cook for 4 to 5 minutes, until the vegetables start to turn golden, stirring often.\n                Add the carrots and squash and sauté until they begin to soften.\n                Add the bay leaf and chicken stock, bring to the boil, then reduce to a simmer for 20 minutes, or until the vegetables are tender.\n                Preheat the oven to 190ºC/gas 5.\n                In a bowl, whisk 120ml of cold water with the flour until combined. Add a cup of the hot broth to the mixture and whisk well. Strain the mixture and whisk it back into the broth.\n                Bring the broth to the boil. Shred or dice the chicken, add to the pan and season with sea salt and black pepper. Reduce the heat and simmer for 5 minutes.\n                Pour the broth into a 2.8-litre baking dish. Top the chicken with the uncooked biscuits and bake for 35 to 40 minutes, or until the biscuits are golden and cooked through, and the broth is bubbling. Serve straightaway.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-amp-herb-biscuits/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 sticks of celery",
+    "1 onion",
+    "350 g butternut squash",
+    "3 carrots",
+    "olive oil",
+    "1 fresh bay leaf",
+    "1 litre organic chicken stock",
+    "2 tablespoons plain flour",
+    "700 g leftover cooked free-range chicken",
+    "1 sprig of fresh thyme",
+    "1 sprig of fresh rosemary",
+    "230 g plain flour",
+    "1 tablespoon baking powder",
+    "110 g unsalted butter",
+    "240 ml single cream"
+  ],
+  "category": "American",
+  "image": "chicken-and-herb-biscuits.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84ddd"
+  },
+  "name": "Sweet Potato with marshmallow",
+  "description": "Preheat the oven to 200ºC/400ºF/gas 6.\n                Toast the pecans in a frying pan until golden, then add the cinnamon and a good grating of nutmeg. Cook for another 30 seconds, then transfer to a chopping board.\n                Bake or steam the sweet potatoes (doing this in the microwave will be quickest) until cooked through. Transfer to the board with the nuts and scoop out the flesh, discarding the skins.\n                In a bowl, combine the sweet potato, marmalade and butter, mashing it all together, then season. Spoon into an ovenproof dish and top with the marshmallows (you can halve the amount and it'll still be delicious, if you prefer).\n                Bake for 25 minutes, or until the marshmallows are golden and puffed up. Cool slightly before serving.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/sweet-potato-with-marshmallow/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "50 g pecans",
+    "½ teaspoon cinnamon",
+    "1 whole nutmeg",
+    "6 sweet potatoes",
+    "2 tablespoons marmalade",
+    "50 g unsalted butter",
+    "200 g plain marshmallows"
+  ],
+  "category": "American",
+  "image": "sweet-potato-with-marshmallow.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84ddf"
+  },
+  "name": "Cornish cowboy pasties",
+  "description": "Preheat the oven to 180°C/350°F/gas 4. Bring your butter and water to the boil in a large pan, then take the pan off the heat. Stir the flour and 1 tablespoon of sea salt into the mixture bit by bit with a spatula, until you’ve got a dough. Tip it on to a floured surface and use your hands to shape it into a smooth ball. Put the ball of dough into a floured bowl, dust the top with flour, then cover with cling film and chill in the fridge for about 30 minutes while you make the filling.\n                Meanwhile, get a large pan and fry your chopped onion in a lug of olive oil for 10 minutes or until softened. Add the diced chicken and fry for 5 minutes until brown, then add the rest of the chopped vegetables and herbs. Fry for another 5 minutes, then add 3 or 4 good gratings of nutmeg. Season well with salt and black pepper, then pour in the chicken stock and Worcestershire sauce. Stir in the flour and simmer on a medium heat for 15 to 20 minutes, until most of the stock has cooked away and you’re left with nice thick gravy.\n                Dust a clean surface and a rolling pin with flour, then divide your pastry dough in half and roll each half out until it’s slightly thinner than 0.5cm. Use a cereal bowl (about 15cm in diameter) to cut 4 circles out of each half, so you end up with 8 circles. You may need to cut out 2 or 3 circles from each half first, then re-roll the remaining pastry to make the rest. Dust the circles with flour, and spoon your filling into the middle of each one. Brush the edges of the pastry with some of the beaten egg, then fold each circle in half over the filling and crimp the edges with your finger and thumb to seal them. If you want to see how this is done, check out this video on how to assemble a pasty.\n                Line 2 baking trays with greaseproof paper, scatter a handful of cornmeal or polenta over the paper, and place your pasties on top. Brush the pasties all over with more of the beaten egg and sprinkle over a little more cornmeal. Bake in the hot oven for 30 to 35 minutes, or until golden, and serve straight away with a fresh green salad. A taste of Cornwall in the Wild West – who’d have thought it!\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/cornish-cowboy-pasties/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "250 g butter",
+    "300 ml hot water",
+    "500 g plain flour",
+    "1 large free-range egg",
+    "1 handful medium ground cornmeal",
+    "1 red onion",
+    "olive oil",
+    "4 skinless higher-welfare chicken thighs",
+    "½ small butternut squash",
+    "1 carrot",
+    "1 medium potato",
+    "6 sprigs fresh sage",
+    "nutmeg",
+    "300 ml organic chicken stock",
+    "2 tablespoons Worcestershire sauce",
+    "1 tablespoon plain flour"
+  ],
+  "category": "American",
+  "image": "cornish-cowboy-pasties.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84de2"
+  },
+  "name": "Smokey mixed-potato wedges",
+  "description": "Preheat the oven to 200ºC/400ºF/gas 6.\n                Wash the potatoes under cold running water, scrubbing well with a scrubber to get rid of any dirt (there’s no need to peel them).\n                On a chopping board, cut each potato in half lengthways, then cut each half in half lengthways, and then each piece in half again so you end up with 8 wedges, then add to a large mixing bowl.\n                Sprinkle over a tiny pinch of sea salt and black pepper, and the paprika.\n                Drizzle over 2 tablespoons olive oil, then toss everything together to coat.\n                Spread out into a single layer over two large baking trays, then bake in the hot oven for 35 to 40 minutes, or until golden and cooked through.\n                Use oven gloves to remove the trays from the oven, then leave to sit for a couple of minutes (this will make it easier to remove them from the tray), then use a fish slice to transfer them to a serving dish.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/smoky-mixed-potato-wedges/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 large sweet potatoes",
+    "2 medium potatoes",
+    "1 teaspoon sweet smoked paprika",
+    "olive oil"
+  ],
+  "category": "American",
+  "image": "smoky-mixed-potato-wedges.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84de4"
+  },
+  "name": "Corn Chowder",
+  "description": "Pull the leaves from the celery stalks and set them aside. Chop your celery and onion. Heat the olive oil in a medium saucepan over a medium heat. Add the celery (not the leaves), onion, and thyme. Stir until the vegetables start to brown.\n                Sprinkle the flour over the veggies and stir for a few more minutes. Pour in the milk, add the potato and bring to a boil, stirring the whole time so the soup doesn’t stick to the pot. Cook until the potatoes are tender, but not mushy – this will take around 10 minutes.\n                Meanwhile, chop the celery leaves, trim the ends off the spring onions and slice them thinly. When the potatoes are tender, stir in the corn, spring onion and celery leaves. Bring the soup back to the boil, then serve.\n                This is delicious with a crusty brown roll or a Parmesan crisp.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/corn-chowder/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 stalk celery",
+    "1 medium onion",
+    "olive oil",
+    "½ teaspoon dried thyme",
+    "1 tablespoon plain flour",
+    "840 ml semi-skimmed milk",
+    "1 medium potato",
+    "3 spring onions",
+    "175 g frozen corn",
+    "¼ cup fresh chives"
+  ],
+  "category": "American",
+  "image": "corn-chowder.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84de0"
+  },
+  "name": "Vanilla Cheesecake",
+  "description": "Preheat the oven to 180ºC/350ºF/gas 4, and grease and line the bottom and sides of a 24cm springform cake tin.\n                Melt the butter, and crush the biscuits, then mix together in a bowl. Lightly press into the base of the prepared tin and bake for 10 minutes. Remove from the oven and leave to cool.\n                Turn the oven up to 200ºC/400ºF/gas 6.\n                Combine the sugar and cornflour in a bowl, add the cream cheese and beat, ideally with an electric whisk, until creamy.\n                Crack in the eggs and beat well, then gradually add the cream, beating until smooth.\n                Halve the vanilla pod lengthways, then scrape out the seeds and add to the bowl (if using), or add the vanilla extract, then finely grate in the lemon and orange zest.\n                Scrape the mixture on to the biscuit base, and gently shake to level out the surface.\n                Bake the cheesecake in the centre of the oven for 40 to 45 minutes, or until the top is golden and the filling has set around the edges (cover with a piece of tin foil, if browning too much).\n                Let it cool at room temperature and serve after 2 or 3 hours, or, for a slightly firmer texture, place it in the fridge until it’s nice and cold.\n                Before serving, destone the cherries and place in a pan, then sprinkle over the sugar and add a splash of water. Put on a medium-low heat and simmer gently for 10 minutes – if you’ve got some port or whisky handy, feel free to add some.\n                Once reduced, it may be a little dry, so add a splash of water to loosen, if needed. Leave to cool, then serve spooned over the cheesecake with a dusting of icing sugar.\n\n        Source: https://www.jamieoliver.com/recipes/cheese-recipes/bloomin-easy-vanilla-cheesecake/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "150 g unsalted butter",
+    "250 g digestive biscuits",
+    "115 g caster sugar",
+    "3 tablespoons cornflour",
+    "900 g half-fat cream cheese",
+    "2 large free-range eggs",
+    "115 ml double cream",
+    "1 vanilla pod",
+    "1 lemon",
+    "1 orange",
+    "400 g cherries",
+    "3 heaped tablespoons caster sugar",
+    "1 swig port",
+    "icing sugar"
+  ],
+  "category": "American",
+  "image": "vanilla-cheesecake.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84de1"
+  },
+  "name": "Gluten-free Blondies",
+  "description": "Preheat the oven to 180°C/350°F/gas 4 and line a 23cm square brownie tin with greaseproof paper.\n                Sift together the flour, baking powder and sea salt into a bowl.\n                Split the vanilla pod lengthways and scrape the seeds into a large bowl. Add the soya yoghurt, honey and sugar, and mix until well combined.\n                Gently fold the dry ingredients into the wet ingredients. Roughly chop the chocolate and fold in.\n                Pour the batter into the prepared brownie pan and evenly spread over the pan with a spoon or spatula. Bake in the oven for 30 to 35 minutes, or until the top of the blondie is firm and brown.\n                Let the blondie cool completely in the pan. Cut into 12 pieces and serve.\n\n        Source: https://www.jamieoliver.com/recipes/chocolate-recipes/gluten-free-blondies/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "150 g gluten-free flour",
+    "1 teaspoon gluten-free baking powder",
+    "½ teaspoon fine sea salt",
+    "200 g soya yogurt",
+    "½ a vanilla pod",
+    "2 tablespoons honey",
+    "250 g light brown sugar",
+    "200 g vegan chocolate"
+  ],
+  "category": "American",
+  "image": "gluten-free-blondies.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84de3"
+  },
+  "name": "Chilli Cheese Corn Bread",
+  "description": "Preheat the oven to 200ºC/400ºF/gas 6. Grease a 22cm cake tin with oil and line the base with greaseproof paper.\n                Peel and finely slice the onions. Melt the butter in a frying pan on a medium heat, add the onions, then fry gently for 15 to 20 minutes, or until caramelised, golden and sticky.\n                Hold the corn cobs upright on a board and carefully run a small knife from the top of the corn to the bottom, cutting all the kernels off.\n                Add to the caramelised onions and cook for a further 5 minutes. Remove from the heat and set aside to cool.\n                Beat the eggs in a large bowl, then mix in the cornmeal, milk, baking powder, flour and a good pinch of sea salt and black pepper.\n                Grate the cheese, add most of it to the bowl, then beat until well mixed. Deseed, finely chop and stir in 2 chillies, along with the cooled onion and corn mixture.\n                Pour the mixture into the prepared cake tin. Finely slice and sprinkle over the remaining chilli, then pop the cornbread into the oven for 35 minutes, or until golden and cooked through. About 10 minutes before it’s ready, sprinkle over your remaining cheese and return it to the oven.\n                Cool for 15 minutes, then turn it out onto a wire rack or serving plate, cheesy side up. Serve straightaway – it’s unbelievably good when it’s warm.\n\n        Source: https://www.jamieoliver.com/recipes/bread-recipes/chilli-cheese-cornbread/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "olive oil",
+    "2 onions",
+    "2 corn on the cob",
+    "4 large free-range eggs",
+    "325 g coarse cornmeal",
+    "250 ml full-fat milk",
+    "1 teaspoon baking powder",
+    "6 tablespoons plain flour",
+    "140 g mature Cheddar cheese",
+    "3 fresh green chillies"
+  ],
+  "category": "American",
+  "image": "chilli-cheese-corn-bread.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84ddc"
+  },
+  "name": "Wild boar burgers",
+  "description": "Work the mince in a bowl with your hands to break down the fat – this will act as a natural binder and help the mince stick together.\n                Divide the meat into 4, roll each piece into a ball, then flatten to roughly 1cm thick, so they’re slightly larger than the buns (they’ll get thicker as they cook). Pop in the fridge to chill for 30 minutes.\n                When you’re ready to cook, preheat the oven to 120°C/250°F/gas ½.\n                In a small bowl, mix the brown, Worcestershire and tomato sauces together – adding as much or as little of each as you like. Peel, finely chop and stir in the shallots, then set aside.\n                Halve the buns, then pop them on a baking tray and warm in the oven for 8 to 10 minutes.\n                Meanwhile, heat a drizzle of oil in a large non-stick pan over a medium-high heat and fry the burgers for about 4 minutes on each side, or until cooked through, seasoning well as you go.\n                To build your burgers, spread the shallot sauce on the warm bun bases. Slice and add the crisp apple, followed by the burger and a nice piece of blue cheese. Finish with a pinch of watercress, then pop on the lids and serve immediately.\n\n        Source: https://www.jamieoliver.com/recipes/game-recipes/wild-boar-burgers/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "500 g minced wild boar shoulder",
+    "1 tablespoon brown sauce",
+    "Worcestershire sauce",
+    "1 tablespoon tomato sauce",
+    "2 shallots",
+    "4 burger buns",
+    "olive oil",
+    "2 Braeburn",
+    "50 g blue cheese",
+    "30 g watercress"
+  ],
+  "category": "American",
+  "image": "wild-boar-burgers.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189476a641f165916e84dde"
+  },
+  "name": "Gluten-free Pumpkin Pie",
+  "description": "Preheat the oven to 180°C/350°F/gas 4. Lightly grease a 25cm non-stick loose-bottomed tart tin with vegetable oil.\n                Halve the pumpkin, scoop out and discard the seeds, then roughly chop into large wedges (there’s no need to peel it). Spread out on a baking tray, cover with tin foil, then pop in the oven for around 1 hour, or until tender, removing the foil for the final 10 minutes.\n                Meanwhile, make the pastry. Sieve the flour and xanthan gum from a height into a large bowl, then stir in the sugar and cinnamon. Chop the butter into cubes, then use your fingertips to rub it into the flour mixture until it resembles fine breadcrumbs. Beat the egg in a separate bowl, then add it to the mixture. Use your hands to bring it together into a rough dough, adding a good splash of milk (if needed), but don’t overwork it too much at this stage. Pat the dough into a flat round, roughly 2.5cm thick, wrap in clingfilm and place in the fridge to rest for at least 30 minutes.\n                Once tender, remove the pumpkin from the oven and leave to cool. Roll out the pastry to roughly the thickness of a pound coin (if you find it crumbles too much, roll it out between two large pieces of clingfilm). Carefully place the dough into the prepared tart tin, gently pressing it into the sides. Trim away any overhanging pastry, prick the base with a fork, then place in the fridge to chill for another 10 minutes.\n                Place a layer of clingfilm into the chilled tart case, fill with uncooked beans or rice, then pop in the oven to blind bake for 10 to 12 minutes. Remove the clingfilm and beans or rice, then cook for a further 5 minutes, or until golden. Remove from the oven and allow to cool completely.\n                Meanwhile, scoop the cooled pumpkin flesh into a food processor, discarding the skin, then blitz until smooth. Melt the butter in a small pan over a low heat for 1 to 2 minutes, or until dark and frothy. Add the brown butter to the blitzed pumpkin with the sugar, flour, nutmeg, ½ teaspoon of cinnamon and the vanilla extract. Whisk 2 eggs in a separate bowl, add to the processor, then blitz again until well combined. Transfer the mixture to the cooled pastry case, using a fork or spoon to spread it out evenly.\n                Roll out the leftover pastry to roughly the thickness of a pound coin, then cut it into long strips, roughly 1cm wide. Place on top of the pie, crisscrossing them as you go to create a nice lattice, then trim away any rough edges. Beat the remaining egg and brush over the pastry. Place the pie in the hot oven for 45 to 50 minutes, or until golden. Dust with icing sugar and cinnamon, then serve.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/gluten-free-pumpkin-pie/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "vegetable oil",
+    "1.4 kg pumpkin",
+    "50 g unsalted butter",
+    "125 g golden caster sugar",
+    "4 level tablespoons gluten-free plain flour",
+    "¼ teaspoon ground nutmeg",
+    "ground cinnamon",
+    "2 teaspoons vanilla extract",
+    "3 large free-range eggs",
+    "icing sugar",
+    "250 g gluten-free plain flour",
+    "½ teaspoon xanthan gum",
+    "50 g soft light brown sugar",
+    "a pinch of ground cinnamon",
+    "125 g unsalted cold butter",
+    "1 large free-range egg",
+    "semi-skimmed milk"
+  ],
+  "category": "American",
+  "image": "gluten-free-pumpkin-pie.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618949c58a9cad226be080dc"
+  },
+  "name": "Mexican-style Eggs",
+  "description": "Preheat the oven to 180°C/350°F/gas 4. Peel (or trim) and finely slice the alliums and Mediterranean veg. Finely chop and deseed the chillies (if using).\nPlace a pan large enough to hold all the ingredients on a medium heat with the oil.\nAdd the alliums, chillies (or chilli flakes) and veg, and cook for 20 minutes or until golden and softened.\nDrain the beans and add to the pan, along with the tomato base sauce and simmer for 10 minutes, stirring occasionally. Season to taste with sea salt and black pepper.\nTransfer the mixture to a deep oven tray (approx 40cm x 60cm) and give it a little shake to fill the corners. Make 10 wells in the sauce and crack in the eggs.\nCrumble over the feta or grate over the hard cheese, and bake for 10 minutes, or until the whites are set but the yolks are still runny. Dish up and enjoy!\n\n\n        Source: https://www.jamieoliver.com/recipes/egg-recipes/mexican-style-eggs/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "120 g alliums",
+    "1.3 kg Mediterranean veg",
+    "2 fresh red chillies",
+    "20 ml olive oil",
+    "2 x 400 g tins black beans",
+    "2 litres tomato base sauce",
+    "10 free-range eggs",
+    "150 g feta or hard cheese"
+  ],
+  "category": "Mexican",
+  "image": "mexican-style-eggs.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac03"
+  },
+  "name": "Mexican Bean Wraps",
+  "description": "Preheat the oven to 180°C/350°F/ gas 4. Peel and finely slice the onion, then deseed and slice up the pepper. Coarsely grate the cheese.\n                Heat a little oil in a frying pan over a medium-low heat and gently fry the onion for 10 minutes, or until softened.\n                Peel and crush the garlic, then add to the pan along with the chilli powder.\n                Add the tomato purée and the tomatoes, breaking them up with a spoon as you go, then drain and add the kidney beans.\n                Cook for 10 minutes, or until slightly reduced, then season to taste with sea salt and black pepper.\n                In a separate pan, fry the pepper in a little oil until starting to soften, then set aside.\n                Divide the filling mixture in half, then blitz one half with a stick blender to form a bean paste – if you don’t have a stick blender, mash with a potato masher.\n                Spread the tortillas with the warm bean paste, then add a serving spoon of the filling and a spoonful of red pepper, and sprinkle with cheese. Roll up the tortillas and place on greased baking tins.\n                Bake for 5 to 10 minutes, or until golden and warmed through.\n                Dress the salad leaves in a little oil and vinegar, then serve alongside your bean wraps.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/cool-mexican-bean-wraps/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 onion",
+    "1 red pepper",
+    "60g Cheddar cheese",
+    "olive oil",
+    "1 clove of grlic",
+    "1 teaspoon chilli powder",
+    "1 teaspoon tomato puree",
+    "1 400g tin plum tomatoes",
+    "1 400g tin red kidney beans",
+    "4 large flour tortillas",
+    "2 large handfuls mixed salad leaves",
+    "balsamic vinegar"
+  ],
+  "category": "Mexican",
+  "image": "mexican-bean-wraps.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac08"
+  },
+  "name": "Classic Tomato Salsa",
+  "description": "Finely chop the tomatoes and coriander (stalks and all) and place into a large bowl.\n                Peel and finely chop the onion, deseed and finely chop the chillies, then scrape into the bowl. Peel and finely grate in the garlic.\n                Squeeze in the juice from 1 lime, add 2 tablespoons of extra virgin olive oil, and mix well. Season to taste with sea salt, black pepper and more lime juice, if needed.\n                Serve straightaway or cover and set aside for a few hours to let all those flavours develop.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/classic-tomato-salsa/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "6 ripe tomatoes",
+    "1 big bunch of fresh coriander",
+    "1 onion",
+    "2 fresh jalapeño",
+    "1 large clove of garlic",
+    "1-2 limes",
+    "extra virgin olive oil"
+  ],
+  "category": "Mexican",
+  "image": "classic-tomato-salsa.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac09"
+  },
+  "name": "Sweet tamales ‘n’ chocolate",
+  "description": "Soak your cornhusks in a bowl of warm water or, if you’re using greaseproof paper, cut yourself 16 pieces roughly 12cm x 20cm. In a separate bowl, mix the cornmeal, flour, a pinch of sea salt, baking powder, sugar, coconut and chopped pineapple. Add the lime zest and juice and pour in 200ml of water to bring everything together. Mix well, until you’ve got a thick spoonable paste.\n                Put a large pan of water on to boil – the pan needs to be big enough to fit a colander on top. Take a soaked cornhusk or piece of greaseproof paper and spoon a heaped tablespoon of your pineapple mixture into the middle of the husk or paper; if the husks are thin you might have to layer two on top of each other. Fold the sides in to cover the filling, then twist the ends and use string to tie them so they look like Christmas crackers.\n                Lay your prepared tamales in a large colander or steamer, making sure they’re all in one layer and not overlapping. Cover the top of the colander with tin foil and seal it nice and tightly. If you don’t have a colander large enough you can always steam the tamales in 2 batches. Pop the colander on top of your pan of boiling water and steam for about 20 to 25 minutes. About 5 minutes before they’re due to be ready, start making your chocolate sauce.\n                Gently bring the cream to the boil in a pan on a medium heat. As soon as it starts to boil, take the pan off the heat and stir in your chocolate pieces until they’re perfectly melted and combined. Add the cubes of butter and a pinch of salt and stir well until the butter is melted.\n                Open one of the tamales to check that it’s perfectly cooked – it should be solid and the wrapping should peel away from it easily. Take them off the heat and let them cool down slightly so they’re cool enough to handle but still warm and delicious. Lay them on a platter next to a jug of your warm chocolate sauce and let everyone get involved and unwrap their own.\n\n        Source: https://www.jamieoliver.com/recipes/chocolate-recipes/sweet-tamales-n-chocolate/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "200 g fine cornmeal",
+    "1 heaped tablespoon plain flour",
+    "½ teaspoon baking powder",
+    "50 g golden caster sugar",
+    "50 g unsweetened desiccated coconut",
+    "½ pineapple",
+    "1 lime",
+    "200 ml single cream",
+    "100 g good-quality dark chocolate",
+    "1 tablespoon unsalted butter"
+  ],
+  "category": "Mexican",
+  "image": "sweet-tamales-n-chocolate.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0b"
+  },
+  "name": "Mexican Tacos",
+  "description": "Preheat the oven to 190°C/375°F/gas 5. Remove the chicken from the fridge and leave to come up to room temperature.\n                Pick the thyme leaves and bash in a pestle and mortar with a good pinch of sea salt and freshly ground black pepper, then rub all over the chicken with a lug of olive oil. Halve the lemon, peel and bash the garlic bulb, then stuff inside the chicken cavity.\n                Place the bird in a snug-fitting roasting tray and pop in the hot oven for around 1 hour 30 minutes, or until cooked through. To check, insert a knife into the thickest part of the thigh – if the juices run clear and the meat pulls away from the bone, you know it’s done.\n                Meanwhile, place the flour and a pinch of salt in a large bowl, then gradually add 2 tablespoons of olive oil and 150ml of cold water, stirring continuously until the mixture comes together to form a rough dough.\n                Transfer to a flour-dusted surface and knead for around 5 minutes, or until smooth and elastic, then shape into a long sausage shape, roughly 45cm in length. Slice the dough into 16 equal-sized pieces, roll into balls, then set aside for later.\n                To make the salsa, preheat a griddle pan over a high heat. Prick the chillies all over with a small sharp knife, remove and discard the papery skin from the tomatillos, then place on the griddle. Cook for 15 to 20 minutes, or until blackened all over, turning occasionally.\n                Trim the spring onions and peel the clove of garlic. Pick the mint leaves into a food processor and add the chillies, tomatillos, spring onions, garlic and the remaining salsa ingredients with a couple of generous pinches of salt, then whiz until smooth.\n                Once cooked, allow the chicken to cool slightly, then strip away the flesh, shredding it as you go (wear rubber gloves if it’s too hot).\n                On a flour-dusted surface, roll the dough balls into circles, roughly the thickness of a playing card. Preheat a large non-stick frying pan over a high heat, then add the tortillas (you’ll need to do this in batches) and cook for 2 to 3 minutes, or until lightly golden, turning halfway. Wrap the tortillas in tin foil to keep warm as you go.\n                Meanwhile, shred the lettuce, quarter the cherry tomatoes, then halve and destone the avocados. Pick the mint and coriander leaves.\n                To assemble the tacos, pop some shredded chicken onto the middle of a tortilla, top with some lettuce, herbs, a few tomatoes and a sprinkling of mixed seeds. Scoop over the avocado flesh, crumble a little feta on top and finish with a drizzle of salsa. Roll up and tuck in.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/party-time-mexican-tacos/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 x 1.8 kg whole free-range chicken",
+    "4 sprigs of fresh thyme",
+    "olive oil",
+    "1 lemon",
+    "1 bulb of garlic",
+    "500 g plain flour",
+    "1 cos lettuce",
+    "250 g ripe cherry tomatoes",
+    "2 ripe avocados",
+    "100 g mixed seeds",
+    "200 g feta cheese",
+    "2 fresh red or green chillies",
+    "500 g tomatillos",
+    "1 bunch of fresh mint",
+    "1 bunch of fresh coriander",
+    "2 spring onions",
+    "1 clove of garlic",
+    "2 tablespoons cider vinegar",
+    "extra virgin olive oil",
+    "1 splash of quality tequila"
+  ],
+  "category": "Mexican",
+  "image": "mexican-tacos.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0e"
+  },
+  "name": "Chilli con veggie",
+  "description": "Peel and finely chop the onions and garlic, then trim and finely chop the leek and chilli (I leave the seeds in, but deseed if you prefer), and place into your largest, heavy-based pan over a medium heat with the oil. Fry for about 5 minutes, or until softened.\n                Add the spices, dried herbs and a good grating of nutmeg, then fry for 2 minutes – if it’s a little dry at this point, simply add a splash of water to help it out. Stir in the tomato purée and cook for a further 2 minutes.\n                Stir in the lentils. Drain, rinse and stir in the beans, followed by the chopped tomatoes and the stock (I try to use homemade stock, but if you’ve only got stock cubes, that’s fine too).\n                Bring it all to the boil, then reduce to a low heat and let it bubble away for at least 1 hour, or until thickened and reduced, stirring every 15 to 20 minutes, then season to how you like it.\n                I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/kerryann-s-chilli-con-veggie/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 medium onions",
+    "4 cloves of garlic",
+    "1 medium leek",
+    "1 long fresh red chilli",
+    "2 tablespoons olive oil",
+    "2 tablespoons ground cumin",
+    "2 tablespoons ground coriander",
+    "2 tablespoons smoked paprika",
+    "½ a cinnamon stick",
+    "2 tablespoons dried oregano",
+    "1 whole nutmeg",
+    "2 tablespoons tomato purée",
+    "250 g dried green lentils",
+    "250 g dried red lentils",
+    "2 x 400 g tins of red kidney beans",
+    "2 x 400 g tins of black beans",
+    "2 x 400 g tins of chopped tomatoes",
+    "1.2 litres organic vegetable stock"
+  ],
+  "category": "Mexican",
+  "image": "chilli-con-veggie.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0a"
+  },
+  "name": "Mexican Chicken Chilli",
+  "description": "Peel and slice the onions, peel and finely chop the garlic, and pick the coriander leaves and finely chop the stalks. Slice the chicken into 1cm strips.\n                Heat the oil in a pan over a medium heat and, when hot, sauté the onions, garlic, coriander stalks, spices, and whole and flaked chilli for 5 minutes, until the onion is soft but not coloured.\n                Add the chicken strips and cook for a couple of minutes, then add the tinned tomatoes. Bring to the boil, then reduce the heat and simmer, partly covered, for 35 to 40 minutes, or until the chicken breaks apart when pressed with the back of a spoon. Add a splash of water if it looks too dry at any stage.\n                Next, make the salsa. Blister the pepper and chilli skins by placing them under a hot grill or holding them with tongs over a gas flame. Once blackened all over, place in a bowl, cover with clingfilm and set aside to cool.\n                Roughly chop the tomatoes, put them in a colander with a pinch of sea salt and place it in the sink for 15 minutes to allow the salt to draw out some of the tomatoes’ water, then give the colander a good shake.\n                Peel the skins from the pepper and chilli and discard along with the seeds, then place them on a board with the spring onions and chop.\n                Add the tomatoes and pick over the coriander leaves and continue chopping until you have a fine salsa. Transfer to a bowl, and season with black pepper and a good squeeze of lime juice.\n                Shred the chicken using two forks, then drain and stir the black beans into the chilli. Continue cooking for a couple of minutes until the beans are heated through, then remove from the heat and stir in the coriander leaves.\n                Chop the lettuce, then serve the chilli in the tortillas with the lettuce, a good spoonful of salsa and a drizzle of yoghurt, with lime wedges on the side.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/mexican-chicken-chilli/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 onions",
+    "4 cloves of garlic",
+    "½ a bunch of fresh coriander",
+    "2 free-range chicken breasts",
+    "1 tablespoon olive oil",
+    "1 teaspoon ground cumin",
+    "½ teaspoon ground coriander",
+    "1 whole dried chipotle chilli",
+    "1 pinch of dried chilli flakes",
+    "2 x 400 g tins of chopped tomatoes",
+    "1 x 410 g tin of black beans",
+    "4-6 flour tortillas",
+    "2 gem lettuces",
+    "0% fat Greek–style yoghurt",
+    "1 red pepper",
+    "1 red chilli",
+    "4 ripe tomatoes",
+    "3-4 spring onions",
+    "1 lime"
+  ],
+  "category": "Mexican",
+  "image": "mexican-chicken-chilli.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac04"
+  },
+  "name": "Mega Veggie Nachos",
+  "description": "Place the oven on to 180ºC/350ºF/gas 4.\n                Place a griddle pan over a high heat and cook the whole peppers, chilli, tomatoes and trimmed spring onions until soft and charred.\n                Put the peppers and chilli in a bowl, cover with clingfilm and set aside for 5 minutes.\n                Dice the tomatoes and spring onions, then add to another bowl. Peel, deseed and dice the peppers and chillies, then add to the tomatoes and spring onions.\n                Pick in a few coriander leaves, season, then mix in a good squeeze of lime juice and a drizzle of oil. Wipe the griddle pan and return to the heat.\n                Cut the tortillas into wedges and arrange over two baking sheets. Bake in the oven for 5 minutes, or until golden.\n                Place a large frying pan over a high heat and toast the cumin seeds for a few seconds. Add the Tabasco sauce and beans and cook for a few minutes, or until thick, stirring occasionally.\n                Peel, destone and slice the avocado into wedges, then drizzle with the remaining lime juice.\n                Arrange the tortillas in a bowl. Top with the beans, salsa, dressed avocado, feta and pick over the remaining coriander, then serve.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/mega-veggie-nachos/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 mixed-colour peppers",
+    "1 fresh red chilli",
+    "3 ripe tomatoes",
+    "6 spring onions",
+    "1 bunch of fresh coriander",
+    "2 limes",
+    "extra virgin olive oil",
+    "4 corn tortillas",
+    "½ teaspoon cumin seeds",
+    "Chipotle Tabasco sauce",
+    "1 x 400g tin of black beans",
+    "1 ripe avocado",
+    "20 g feta cheese"
+  ],
+  "category": "Mexican",
+  "image": "mega-veggie-nachos.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac06"
+  },
+  "name": "Cracking Chicken Burrito",
+  "description": "Preheat a griddle pan over a high heat. Meanwhile, place the chicken thighs between two sheets of greaseproof paper, then bash with the base of a heavy pan to roughly ½cm thick. Pop into a bowl, sprinkle over the paprika, cumin and a lug of oil, and season well with sea salt and freshly ground black pepper.\n                Mix well to coat, then place the chicken onto the hot griddle. Cook for 10 minutes, or until charred and cooked through, turning halfway. Leave to cool slightly.\n                Meanwhile, peel and finely slice the garlic. Pick the coriander leaves and set aside, then finely slice the stalks. Heat 1 tablespoon of oil in a large frying pan over a medium-high heat, add the garlic and coriander stalks and fry for 1 minute.\n                Drain, rinse and add the beans, then fry for a further few minutes. Add the rice and cook for 5 minutes, or until crisp and piping hot through, stirring occasionally. Finely grate in the lime zest, roughly chop and add half the coriander leaves. Stir well and remove from the heat.\n                Roughly chop the tomatoes and trim and finely slice the spring onions, then add to a bowl with the juice of the lime. Roughly chop and add the remaining coriander leaves, mix well and season to taste. Shred the lettuce and cooled chicken.\n                Pop a tortilla onto the griddle for 1 minute to soften, then place onto a board. Spoon one-quarter of the fried rice and beans along the middle, top with a generous spoonful of salsa, a handful of lettuce and one of the shredded chicken thighs. Grate over some cheese and add a spoon of yoghurt.\n                Wrap up the burrito, then tuck in. Repeat with the remaining ingredients, serving as you go.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/cracking-chicken-burrito/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 skinless chicken thighs",
+    "1 tablespoon sweet smoked paprika",
+    "½ a tablespoon ground cumin",
+    "olive oil",
+    "2 cloves of garlic",
+    "1 bunch of fresh coriander",
+    "1 x 400 g tin of pinto",
+    "200 g leftover white rice",
+    "1 lime",
+    "4 ripe tomatoes",
+    "4 spring onions",
+    "1 little gem lettuce",
+    "4 large flour tortillas",
+    "80 g mature Cheddar cheese",
+    "4 tablespoons Greek yoghurt"
+  ],
+  "category": "Mexican",
+  "image": "cracking-chicken-burrito.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac07"
+  },
+  "name": "Piri Piri Chicken",
+  "description": "Using a sharp knife, carefully cut the chicken in half along the backbone.\n                Pick the thyme leaves into a pestle and mortar, peel and add 1 garlic clove, then add the paprika and a pinch of sea salt. Bash to a paste, then muddle in 2 tablespoons of olive oil.\n                Rub the marinade all over the chicken, making sure to get into all the nooks and crannies. Cover and place in the fridge to marinate for at least 2 hours, preferably overnight.\n                When you’re ready to cook, preheat the oven to 180ºC/350ºF/gas 4. Place a large griddle pan over a high heat.\n                Quarter the unpeeled onions and halve any larger tomatoes, then place on the hot griddle with the chillies and the remaining unpeeled garlic cloves. Grill for 5 to 10 minutes, or until charred all over, turning regularly.\n                Remove the garlic skins and peel the onions, then add all the vegetables to a food processor with a splash of red wine vinegar and a good lug of extra virgin olive oil. Blitz until smooth, then add a splash of water to loosen, if needed. Season to taste.\n                Return the griddle pan to a high heat, add the marinated chicken and sear all over for 8 to 10 minutes, turning regularly. Transfer to a roasting tray, then pop in the hot oven for 45 minutes, or until cooked through.\n                Meanwhile, cut the sweet potatoes into rough 2cm wedges. Toss with the paprika, semolina, a small pinch of salt and black pepper and a lug of olive oil.\n                Spread the wedges out on 2 large baking trays, then place in the oven for 25 to 30 minutes, or until tender and crisp.\n                To make the jalapeño salsa, drain and add the jalapeños to a food processor with a splash of the pickling juice. Tear in the coriander (stalks and all) and add a splash of extra virgin olive oil. Blitz well until smooth.\n                Serve the roast chicken with your piri piri sauce, sweet potato wedges and a little jalapeño salsa.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/piri-piri-chicken/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1.3 kg free-range chicken",
+    "3 sprigs of fresh thyme",
+    "4 cloves of garlic",
+    "1 teaspoon sweet smoked paprika",
+    "olive oil",
+    "2 red onions",
+    "4 ripe mixed-colour tomatoes",
+    "6 fresh mixed-colour chillies",
+    "red wine vinegar",
+    "extra virgin olive oil",
+    "750 g sweet potatoes",
+    "1 teaspoon smoked paprika",
+    "2 tablespoons fine semolina",
+    "1 x 200 g jar of pickled jalapeños",
+    "1 bunch of fresh coriander"
+  ],
+  "category": "Mexican",
+  "image": "piri-piri-chicken.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0d"
+  },
+  "name": "Classic guacamole",
+  "description": "Peel the onion and deseed 1 chilli, then roughly chop it all on a large board.\n                Destone the avocados and scoop the flesh onto the board.\n                Start chopping it all together until fine and well combined.\n                Pick over most of the coriander leaves, roughly chop and add the tomatoes, then continue chopping it all together.\n                Add the juice from 1 lime and 1 tablespoon of oil, then season to taste with sea salt, black pepper and more lime juice, if needed.\n                Deseed, finely chop and scatter over the remaining chilli if you like more of a kick. Pick over the reserved coriander leaves, then serve.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/classic-guacamole/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "½ a small red onion",
+    "1-2 fresh red chillies",
+    "3 ripe avocados",
+    "1 bunch of fresh coriander",
+    "6 ripe cherry tomatoes",
+    "2 limes",
+    "extra virgin olive oil"
+  ],
+  "category": "Mexican",
+  "image": "classic-guacamole.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0f"
+  },
+  "name": "Crispy tortillas with guacamole",
+  "description": "Preheat the oven to 200°C/400°F/gas 6. Meanwhile, remove and discard the seeds from the chillies, squeeze the juice from the limes, peel the avocados, remove the stone and chop them and roughly chop the fresh coriander.\n                To make the guacamole, mash or blend the chillies, lime juice, avocado and coriander until creamy but a bit chunky. Season with sea salt and freshly ground black pepper, and pour into a serving dish. Brush the tortillas with the oil, season, and then sprinkle with the thyme leaves. Lay them on a baking tray – don't overlap them too much – and bake for 5 minutes until golden brown, then leave them to cool. Break into wedges if you like, and serve the crispy tortillas with the guacamole.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/crispy-tortillas-with-guacamole/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2-3 fresh green chillies",
+    "2 limes",
+    "3 avocados",
+    "1 large bunch fresh coriander",
+    "sea salt",
+    "freshly ground black pepper",
+    "12 flour tortillas",
+    "3 lugs extra virgin olive oil",
+    "½ bunch fresh thyme"
+  ],
+  "category": "Mexican",
+  "image": "crispy-tortillas-with-guacamole.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac10"
+  },
+  "name": "Mexican filled omelette",
+  "description": "Squeeze the avocado flesh into a blender, discarding the stone and skin.\n                Squeeze in all the juice from 2 limes, rip in the coriander stalks, add the yoghurt and a splash of oil and whiz until smooth, then season to perfection.\n                Peel the onion and carrot. Ideally in a food processor, or using a box grater and good knife skills, grate the onion and carrot, then finely slice the cabbage. Very finely slice the chilli by hand, then tip everything into a large bowl.\n                Add most of the coriander leaves, then pour over the avocado dressing and toss together well. Taste and season to perfection again, if needed.\n                Whisk all the eggs together in a bowl, with a splash of water to loosen and a pinch of sea salt and black pepper.\n                Put a large non-stick frying pan on a medium-low heat. Once fairly hot, put in a tiny drizzle of oil followed by a quarter of the egg mixture.\n                Swirl it all around the pan, grate over a quarter of the cheese and let it melt, then cook the omelette gently without colouring it, so it’s soft, silky and smooth, for just under 2 minutes, only cooking on one side.\n                Slide it on to a plate, spoon over a quarter of the avocado slaw, then gently fold up the sides and roll over. Serve with a wedge of lime and a few extra coriander leaves.\n                Repeat with the remaining ingredients, serving them up as you go.\n\n        Source: https://www.jamieoliver.com/recipes/eggs-recipes/mexican-filled-omelette/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 ripe avocado",
+    "3 limes",
+    "½ a bunch of fresh coriander",
+    "3 tablespoons fat-free natural yoghurt",
+    "olive oil",
+    "1 small onion",
+    "1 carrot",
+    "½ white or green cabbage",
+    "1 fresh red chilli",
+    "8 large free-range eggs",
+    "60 g Cheddar cheese "
+  ],
+  "category": "Mexican",
+  "image": "mexican-filled-omelette.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac05"
+  },
+  "name": "Veggie Quesadillas",
+  "description": "Peel off the outer layers of the leeks, leaving the tender inner part (save the outsides for stew or soup, or even stock or gravy), then finely chop.\n                Deseed and finely chop the peppers. Wash and coarsely grate the carrot.\n                Put all the veg in a bowl, coarsely grate in the cheese, adding more if you have it, then mix it all together. If you’ve got fresh herbs, add some roughly chopped leaves.\n                To assemble, scatter the veg and cheese mixture across four tortillas, then top with the remaining tortillas.\n                Put a large non-stick frying pan on a medium heat.\n                One at a time, dry fry the quesadillas for 5 minutes, or until golden and crisp on the outside, and the cheese has melted in the middle, turning halfway.\n                Meanwhile, jazz up your houmous. Add half a tablespoon of extra virgin olive oil and a squeeze of lemon or lime juice to the houmous tub, and mix together. You can add some fresh herbs here if you have any.\n                Let each quesadilla cool for at least a minute before slicing into wedges. Finely slice the chilli, if using. Serve with the jazzed-up houmous and yoghurt for dunking, topped with chilli sauce and the sliced fresh chilli to add a bit of heat, if you like. Great with a fresh, crunchy salad on the side.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-quesadillas/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "3 leeks",
+    "3 peppers",
+    "1 large carrot",
+    "140 g Cheddar or Red Leicester cheese",
+    "a few sprigs of fresh soft herbs",
+    "8 large flour tortillas",
+    "200 g tub of houmous",
+    "extra virgin olive oil",
+    "1 lemon or lime",
+    "1 fresh chilli",
+    "120 g natural yoghurt",
+    "chipotle chilli sauce"
+  ],
+  "category": "Mexican",
+  "image": "veggie-quesidillas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189c484266f188bfd07ac0c"
+  },
+  "name": "Veggie enchiladas",
+  "description": "Preheat the oven to 200°C/400°F/gas 6. Place a griddle pan over a high heat to get smoking hot.\n                Halve and deseed the peppers, then add to the griddle with the corn. Grill for 8 to 10 minutes, or until charred and bar-marked, turning occasionally. Remove to a plate to cool.\n                Heat 1 tablespoon of oil in a medium frying pan over a medium heat. Drain and add the black beans, stir in the cumin and fry for 4 to 5 minutes, or until crisp, stirring occasionally.\n                Once cooled, cut the corn kernels away from the cob and chop the peppers into 1.5cm chunks. Reserving 1 tablespoon of the corn, add to a large bowl with the peppers and black beans.\n                Trim, finely slice and add the spring onions, reserving a small handful to one side. Deseed, finely slice and add the chilli. Pick and add most of the coriander leaves, reserving the stalks.\n                Squeeze in the lime juice and season well with sea salt and black pepper.\n                Wipe the frying pan clean with kitchen paper, then return to a medium heat with 1 tablespoon of oil.\n                Peel and finely slice the garlic and finely slice the coriander stalks, then add to the pan for 1 minute.\n                Stir in the tomatoes and ½ a tin’s worth of hot water, breaking up the tomatoes with the back of a wooden spoon. Bring to the boil, reduce the heat to medium-low and simmer for 5 minutes, or until thickened and reduced.\n                Season to taste, carefully transfer to a liquidiser and blitz until smooth.\n                Divide the vegetable mixture between 8 corn tortillas and roll them up. Line them up in a snug-fitting baking dish (roughly 20cm x 30cm), with the scruffy ends tucked underneath.\n                Pour over the tomato sauce, coarsely grate the Cheddar on top and crumble over the feta.\n                Drizzle with a little oil, then pop in the hot oven for 25 minutes, or until bubbling and golden.\n                Serve scattered with the reserved corn, spring onion and coriander leaves. Delicious with a crisp green salad.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/veggie-enchiladas/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 red or yellow peppers",
+    "2 corn on the cob",
+    "olive oil",
+    "1 x 400g tin black beans",
+    "½ teaspoon ground cumin",
+    "6 spring onions",
+    "1 fresh red chilli",
+    "1 bunch of fresh coriander",
+    "1 lime",
+    "2 cloves of garlic",
+    "1 x 400g tin quality plum tomatoes",
+    "8 small corn tortillas",
+    "70 g mature Cheddar cheese",
+    "40 g feta cheese"
+  ],
+  "category": "Mexican",
+  "image": "veggie-enchiladas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd445"
+  },
+  "name": "Spiced Chai",
+  "description": "Place the tea bags, cinnamon, cloves, ginger and milk into a small pan, grate in two-thirds of the nutmeg and add 350ml of water.\n                Give it a stir and place over a medium-high heat.\n                Gently bring to the boil, then reduce the heat and simmer for 12 to 15 minutes to allow the flavours to infuse.\n                Strain into a teapot or straight into cute little heatproof glasses. Serve with a drizzle of honey, agave or maple syrup to sweeten, if you like.\n\n        Source: https://www.jamieoliver.com/recipes/uncategorised-recipes/spiced-chai-tea/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 English breakfast tea bags",
+    "2 cinnamon sticks",
+    "4 cloves",
+    "1 teaspoon ground ginger",
+    "600 ml milk",
+    "1 whole nutmeg"
+  ],
+  "category": "Indian",
+  "image": "spiced-chai-tea.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd446"
+  },
+  "name": "Keralan fish curry",
+  "description": "Peel and finely slice the shallots, garlic and ginger. Trim and finely slice the chilli. Cut the fish into chunks.\n                Heat a lug of groundnut oil in a large pan, add the mustard seeds and curry leaves and cook until the seeds start to pop.\n                Add the shallot, garlic, ginger and chilli, and cook on a medium heat for 5 minutes, or until softened.\n                Mix the chilli powder and turmeric together with a splash of water, and stir into the pan. Fry for 1 minute, then add the fish, coconut milk and tomatoes.\n                Season, bring to the boil, then simmer for 20 minutes, or until the fish is cooked and the sauce has reduced.\n                Pick, chop and scatter over the coriander leaves. Delicious served with basmati rice and warm naan bread.\n\n        Source: https://www.jamieoliver.com/recipes/fish-recipes/keralan-fish-curry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "6 shallots",
+    "4 cloves of garlic",
+    "2.5 cm piece of ginger",
+    "1 fresh green chilli",
+    "750 g firm white fish",
+    "groundnut oil",
+    "1 teaspoon mustard seeds",
+    "20 curry leaves",
+    "1 tablespoon chilli powder",
+    "1 teaspoon turmeric",
+    "1 x 400 g tin of light coconut milk",
+    "1 x 400 g tin of quality chopped tomatoes",
+    "a few sprigs of fresh coriander"
+  ],
+  "category": "Indian",
+  "image": "keralan-fish-curry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd449"
+  },
+  "name": "Aloo Gobi",
+  "description": "Bring a pot of salted water to the boil and add your cauliflower. Bring back to the boil for 1 minute, then remove the florets with a slotted spoon and leave in a colander. Keep the cauliflower water to one side.\n                Heat a wide pan big enough to hold all the ingredients at once. Add a good splash of vegetable oil and when it’s hot, add the mustard seeds, the asafoetida, the curry leaves and turmeric. Fry for a few seconds then add the diced potatoes, just enough of the cauliflower water to cover them and some salt. Cover with a lid and simmer gently until the potatoes are just cooked. Add the peas, chillies and cauliflower florets, stir and replace the lid. Cook over a gentle heat until everything is cooked and soft, and the liquid has reduced. Taste and season well with salt and pepper, sprinkle with loads of chopped coriander and some coconut shavings and serve.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/the-best-aloo-gobi/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "3 coloured chillies",
+    "1 small bunch fresh coriander",
+    "coconut shavings",
+    "1 small head cauliflower",
+    "1 splash vegetable oil",
+    "1 tablespoon black mustard seeds",
+    "1 large pinch asafoetida",
+    "12 curry leaves",
+    "½ teaspoon ground turmeric",
+    "4 medium-sized potatoes",
+    "1 big handful frozen peas"
+  ],
+  "category": "Indian",
+  "image": "aloo-gobi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44b"
+  },
+  "name": "Samosas",
+  "description": "To make the dough, combine the flour, baking powder, a good pinch of sea salt and the ajwain seeds (if using) in a large bowl.\n                Use your fingers to rub in 120ml of oil until the mixture resembles breadcrumbs. Stir in 150ml of cold water, then bring it together with your hands into a rough dough, adding a splash more water, if needed.\n                Place in a flour-dusted bowl, cover with a damp tea towel and leave to rest for 30 minutes.\n                Peel and chop the potatoes into rough 2.5cm chunks, then break the cauliflower into florets so they’re roughly the same size.\n                Add the potatoes to a large pan of boiling salted water and cook for 10 to 12 minutes, or until tender, adding the cauliflower after 3 minutes. Add the peas for the final minute, then drain.\n                Peel and finely chop the onion and garlic, then peel and finely grate the ginger. Deseed and finely chop the chilli.\n                Drizzle a lug of oil into a large non-stick frying pan over a medium heat, add the cumin and onion and cook for 8 minutes, or until softened but not coloured. Stir in the garlic, ginger and chilli, then fry for a further few minutes.\n                Bash the fennel seeds to a fine powder and add to the pan along with the garam masala and ground coriander. Stir well.\n                Stir the cooked veg into the pan and crush gently with a potato masher – don't overdo it: you want a fairly chunky mixture. Squeeze in the lemon juice and season to taste. Leave to cool, then pick, finely chop and stir in the coriander leaves.\n                Preheat the oven to 180ºC/350ºF/gas 4. Lightly grease a large baking tray with oil.\n                On a flour-dusted surface, halve the dough and roll out each portion to about 3cm thick. Using a 7cm pastry cutter, stamp out as many circles as you can, then roll into rounds, roughly ½cm thick and 18cm in diameter.\n                Cut each round in half, then brush the straight edges with a little water. Roll into a cone shape, bringing the straight edges together and pressing lightly to seal.\n                Spoon in the filling, brush the exposed dough with a little water, then fold over and press to seal. Place onto the prepared baking tray, then repeat with the remaining ingredients, keeping the samosas covered with a damp tea towel as you go.\n                Brush the samosas with a little oil and bake for 45 minutes, or until golden and piping hot through. Serve straightaway with mango chutney.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/baked-veggie-samosas/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "400 g Maris Piper potoatoes",
+    "250 g cauliflower",
+    "125 g frozen peas",
+    "1 onion",
+    "2 cloves of garlic",
+    "5cm piece of ginger",
+    "1 fresh green chilli",
+    "1 teaspoon cumin seeds",
+    "½ teaspoon fennel seeds",
+    "1 teaspoon garam masala",
+    "½ a lemon",
+    "½ bunch of fresh coriander",
+    "550 g plain flour",
+    "½ teaspoon baking powder",
+    "2 teaspoons ajwain seeds",
+    "groundnut oil"
+  ],
+  "category": "Indian",
+  "image": "samosas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44d"
+  },
+  "name": "Bombay potato salad",
+  "description": "Preheat the oven to 190ºC/375ºF/gas 5. Bring a large pan of salted water to the boil.\n                Leaving the skins on, halve any larger potatoes, then place them all in the water and parboil for 8 to 10 minutes.\n                Drain, steam dry, then transfer to a roasting tray. Crush slightly with a fork, drizzle with oil, then sprinkle over the cumin seeds and turmeric. Season, toss to coat, and roast in the oven for 20 to 25 minutes, or until golden and crisp.\n                Peel, finely slice and place the onion in a shallow bowl, squeeze over the lemon juice and leave to soak.\n                Toast the seeds in a dry pan and set aside. Pick and finely chop the herb leaves.\n                When the potatoes are ready, leave to cool a little, then transfer to a serving bowl. Add the onions, herbs, peas and a drizzle of oil. Toss to coat, then serve sprinkled with the toasted seeds.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/bombay-potato-salad/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1.5 kg salad potatoes",
+    "extra virgin olive oil",
+    "1 teaspoon cumin seeds",
+    "1 tablespoon turmeric",
+    "1 red onion",
+    "1 lemon",
+    "2 tablespoons mixed seeds",
+    "1 bunch of mixed fresh herbs",
+    "1 large handful of fresh peas"
+  ],
+  "category": "Indian",
+  "image": "bombay-potato-salad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd451"
+  },
+  "name": "Saag Paneer",
+  "description": "To make the paneer, line a sieve with a large piece of muslin and place over a bowl.\n                Heat the milk in a large heavy-based pan over a medium heat. Gently bring to the boil, then reduce the heat to a gentle simmer. Gradually add 4 tablespoons of lemon juice, stirring continuously so the curds and whey separate.\n                Carefully pour the mixture into the sieve so the curds collect in the muslin. Place under cold running water to get rid of any whey, then gather up the muslin and squeeze out the excess moisture.\n                Keeping the muslin bundle in the sieve, cover it with a plate and top with a few heavy weights (a couple of tins work well). Place in the fridge for 1 hour 30 minutes to set. Once set, cut the paneer into 2cm chunks.\n                Drizzle a lug of oil into a large non-stick frying pan over a medium heat, add the paneer and fry for 5 minutes, or until golden, stirring frequently. Using a slotted spoon, transfer to a double layer of kitchen paper to drain.\n                Peel and finely chop the onion, garlic and ginger.\n                Return the pan to a medium-low heat, adding a splash more oil, if needed. Add the cumin seeds, fry for 1 minute, then add the onion and cook for around 8 minutes, or until softened.\n                Stir in the garlic, ginger, garam masala and turmeric. Halve, deseed and very finely chop the tomato, add to the pan and cook for a further 10 minutes, or until softened but not coloured, stirring occasionally.\n                Stir in the frozen spinach, cover and cook for 5 minutes, then stir in the cream, paneer and a splash of boiling water.\n                Reduce the heat to low and cook for a further 5 minutes with the lid off, or until reduced to a deliciously creamy consistency. Season to taste with sea salt and black pepper and serve immediately.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/saag-paneer/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "groundnut oil",
+    "1 onion",
+    "2 cloves of garlic",
+    "5 cm piece of ginger",
+    "1 teaspoon cumin seeds",
+    "2 teaspoons garam masala",
+    "½ teaspoon ground turmeric",
+    "1 ripe tomato",
+    "600 g frozen spinach",
+    "50 ml single cream",
+    "sea salt",
+    "freshly ground black pepper",
+    "1.5 litres whole milk",
+    "1 lemon"
+  ],
+  "category": "Indian",
+  "image": "saag-paneer.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd447"
+  },
+  "name": "Perfect chicken balti",
+  "description": "Peel the garlic and deseed the chillies, then roughly chop and place into a pestle and mortar.\n                Bash to a rough paste with a good pinch of sea salt and black pepper. Peel, finely chop and add the ginger, then bash to break it down. Peel and finely chop the onions.\n                Drizzle a lug of oil into a large non-stick pan over a medium heat, add the cinnamon, bay and cardamom, stir for 1 minute, then add the onions. Reduce the heat slightly and fry for 15 minutes, or until softened but not coloured.\n                Chop the chicken into 2.5cm chunks and add to the pan. Turn the heat up to medium, fry for a few minutes, then stir in the chilli paste. Cook for 2 minutes, add the remaining spices and mix well.\n                Halve and roughly chop the tomatoes, then stir them into the pan.\n                Bring to the boil, reduce the heat to medium and simmer for around 15 minutes, or until the tomatoes have softened and broken down.\n                Add the yoghurt and cook for a further 10 to 15 minutes, or until the chicken is tender and the sauce has thickened and reduced.\n                Pick, finely chop and stir in most of the coriander leaves, season to taste, then serve with a homemade naan, brown rice, a dollop of yoghurt and the remaining coriander leaves scattered on top.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/perfect-chicken-balti/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 cloves of garlic",
+    "1-2 fresh red chillies",
+    "5 cm ginger",
+    "2 onions",
+    "groundnut oil",
+    "1 cinnamon stick",
+    "2 fresh bay leaves",
+    "12 green cardamom pods",
+    "6 skinless higher-welfare chicken thighs",
+    "1 teaspoon garam masala",
+    "1 pinch of ground cloves",
+    "1 heaped teaspoon ground cumin",
+    "1 heaped teaspoon ground coriander",
+    "4 ripe tomatoes",
+    "100 g low-fat natural yoghurt",
+    "½ a bunch of fresh coriander"
+  ],
+  "category": "Indian",
+  "image": "perfect-chicken-balti.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd448"
+  },
+  "name": "Mango lassi",
+  "description": "Crush the cardamom pods in a pestle and mortar (if using) and discard the green husks. Bash the seeds to a fine powder and set aside.\n                Cut the juicy flesh off the mangos (the riper they are, the better), leaving the stone in the middle and trimming away all the skin.\n                Place the mango flesh and any juices into a blander with the yoghurt, ice cubes, 1 tablespoon of honey and the ground cardamom (if using).\n                Blitz until smooth, have a taste, and add a little more honey, if needed. Serve immediately.\n\n        Source: https://www.jamieoliver.com/recipes/fruit-recipes/mango-lassi/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "6 green cardamom pods",
+    "2 ripe mangoes",
+    "500 g low-fat natural yoghurt",
+    "100 g ice cubes",
+    "honey"
+  ],
+  "category": "Indian",
+  "image": "mango-lassi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44e"
+  },
+  "name": "Delicious squash daal",
+  "description": "Start by making a temper. Peel the garlic, then finely slice with the chillies, ideally 1mm thick on a mandolin (use the guard!).\n                Pour 2 tablespoons of oil into a large wide pan on a medium heat and add the mustard seeds, cumin seeds and curry leaves for 1 minute, then the garlic and chillies.\n                Stir so everything’s flat, moving regularly until crisp and lightly golden. With a slotted spoon, remove half the temper to a plate, taking the pan off the heat.\n                Peel the onions and ginger and finely chop with the coriander stalks, then chop the squash into 2cm cubes, leaving the skin on but discarding any seeds. Stir it all into the pan and return to a medium heat for 15 minutes to soften.\n                Stir in the lentils, then 1.5 litres of boiling water. Bring to the boil, then reduce to a gentle simmer and cover for 35 minutes, stirring occasionally.\n                Mash the squash into the daal, taste and season to perfection. Remove 6 portions, bag them up and, once completely cool, freeze for a rainy day when you’ll be really grateful it’s there, leaving the rest on a low heat to keep warm.\n                Blitz the coriander leaves, yoghurt, a pinch of sea salt and half the lime juice in a blender until smooth, then decant into a small bowl.\n                Reheat the reserved temper in a non-stick frying pan on a medium-low heat with 1 teaspoon of oil, then divide into two piles and crack an egg over each. Cover and leave to slowly fry on the bottom for 2 or 3 minutes, while they coddle on top.\n                One-by-one, puff up your dry poppadoms in the microwave for around 30 seconds each.\n                Top each portion of daal with a fried egg, and pop some spinach, dressing, poppadoms and a lime wedge on the side.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/delicious-squash-daal/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "8 cloves of garlic",
+    "2 fresh red chillies",
+    "olive oil",
+    "3 teaspoons black mustard seeds",
+    "1 heaped teaspoon cumin seeds",
+    "1 handful of curry leaves",
+    "2 onions",
+    "1 x 5cm piece of ginger",
+    "1 bunch of fresh coriander",
+    "½ a butternut squash",
+    "500 g split red lentils",
+    "3 tablespoons natural yoghurt",
+    "1 lime",
+    "2 large free-range eggs",
+    "4 uncooked poppadoms",
+    "2 handfuls of baby spinach"
+  ],
+  "category": "Indian",
+  "image": "delicious-squash-daal.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd452"
+  },
+  "name": "Lamb boti kabab",
+  "description": "Trim the lamb of fat, then cut into 2.5cm cubes. Prick all over with a fork, then squeeze out any moisture and pat it dry with paper towels.\n                Peel and finely grate the garlic and ginger, then mix with 1 tablespoon of lime juice, 1 teaspoon of sea salt and the remaining marinade ingredients.\n                Submerge the lamb chunks in the marinade, ensuring they are covered, then pop in the fridge for at least 8 hours.\n                When you’re ready to cook, preheat the grill to high. Thread the meat onto skewers, keeping them 2.5cm apart.\n                Grill the kebabs for 5 minutes, then turn and cook them for another 2 minutes.\n                Melt the butter, then use it to baste the kebabs and grill for a final 5 minutes.\n                Serve straight away. Delicious with a kachumber salad, coriander leaves and lime wedges on the side.\n\n        Source: https://www.jamieoliver.com/recipes/lamb-recipes/lamb-boti-kabab/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 kg boneless lamb leg",
+    "unsalted butter",
+    "5 cloves of garlic",
+    "3cm piece of ginger",
+    "½ a lime",
+    "150 g Greek yoghurt",
+    "50 ml sunflower oil",
+    "35 g papaya paste",
+    "20 g deggi mirch",
+    "1 teaspoon garam masala",
+    "1 teaspoon red chilli powder",
+    "1 pinch of cumin seeds",
+    "1 pinch of ground cumin"
+  ],
+  "category": "Indian",
+  "image": "lamb-boti-kabab.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd444"
+  },
+  "name": "Indian pani puri",
+  "description": "To make the puris, place the semolina, flour and a pinch of salt in a bowl, then gradually add the soda water, stirring continuously until the mixture comes together to form a stiff dough. Place into a flour-dusted bowl, cover with a damp tea towel and leave to stand for 30 minutes.\n                Meanwhile, blitz all the pani ingredients, ½ a bunch of coriander, a pinch of salt and pepper and 200ml of water in a liquidiser until smooth. Line a sieve with a double layer of muslin, place over a large bowl, then pour in the tomato mixture and leave to strain – you’ll end up with a beautiful, intense, flavoured water.\n                Meanwhile, make the green salsa. Roughly chop and add the ginger to a liquidiser with the remaining salsa ingredients. Blitz until smooth, then season to taste and transfer to a small bowl.\n                For the spiced chickpeas, heat a lug of olive oil in a medium frying pan over a medium heat. Add the cumin, curry leaves and cinnamon, then fry for around 3 minutes, or until nicely toasted. Stir in the chickpeas, then add the tamarind paste or chutney and cook for a further 3 minutes to warm through, shaking the pan occasionally. Transfer to a plate and set aside.\n                Shape the puri dough on a flour-dusted surface into a long sausage shape, roughly 40cm in length, then take small lumps of dough and roll into rough grape-sized pieces with your hands. Roll the dough out into thin, flat circles, roughly 7cm in diameter.\n                Place a large, deep pan over a high heat, add the vegetable oil and allow it to get really hot. To test if it’s hot enough, drop a tiny piece of dough into the pan – if it floats to the surface and starts to sizzle, it’s about right. Using a slotted spoon, carefully lower 3 to 4 dough circles into the pan. Fry for 2 to 3 minutes, or until puffed up, using the spoon to push them under the oil, then carefully flip them over and continue cooking for 2 minutes, or until golden and crisp. Transfer to a double layer of kitchen paper to drain, then repeat with the remaining dough.\n                Meanwhile, finely chop the fennel, radishes, onion and cucumber, then place into separate bowls.\n                To serve the puris, smash a hole in the top and spoon some chickpeas, green salsa and chopped vegetables inside. Drizzle in a little of the pani, pick over a few of the remaining coriander leaves and tuck in.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/indian-pani-puri/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "200 g fine semolina",
+    "4 tablespoons plain flour , plus extra for dusting",
+    "fine sea salt and freshly ground black pepper",
+    "130 ml soda water",
+    "1 large bunch fresh coriander",
+    "800 ml vegetable oil",
+    "½ a fennel bulb",
+    "4 radishes",
+    "½ a small red onion",
+    "½ a cucumber",
+    "500 g ripe tomatoes",
+    "1 teaspoon fennel seeds",
+    "10 whole black peppercorns",
+    "3 cloves of garlic",
+    "1 small thumb-sized piece of fresh ginger",
+    "3 fresh red chillies , deseeded",
+    "2 tablespoons red wine vinegar",
+    "1 thumb-sized piece of fresh ginger",
+    "2 fresh green chillies",
+    "1 large bunch of fresh mint",
+    "150 ml fresh unsweetened apple juice",
+    "1 teaspoon tamarind paste",
+    "olive oil",
+    "1 heaped teaspoon of cumin seeds",
+    "1 handful of curry leaves",
+    "1 pinch of ground cinnamon",
+    "1 x 400 g tin of chickpeas",
+    "1 tablespoon tamarind paste"
+  ],
+  "category": "Indian",
+  "image": "indian-pani-puri.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44a"
+  },
+  "name": "Chicken Tikka Masala",
+  "description": "To make the curry paste, halve, deseed and roughly chop the chilli(es), then peel the garlic and ginger.\n                Place a frying pan over a medium-high heat and scatter in the cumin and coriander seeds. Lightly toast for a few minutes, or until golden brown and smelling delicious, then remove from the heat.\n                Add the toasted spices to a pestle and mortar and grind until fine, or whiz to a powder in a food processor.\n                Once ground, add the toasted spices to a food processor along with the remaining paste ingredient and ½ teaspoon of sea salt, then whiz to a smooth paste. Put aside.\n                Slice the chicken lengthways into 2cm strips.\n                On a clean chopping board, peel, halve and finely slice the onions. Peel and finely slice the ginger, then pick the coriander leaves and put to one side, finely chopping the stalks along with the chilli.\n                Heat 2 tablespoons of oil in a large casserole pan over a medium-high heat, add the onions, chilli, ginger and coriander stalks, then cook for around 10 minutes, or until softened and lightly golden.\n                Add the chicken and 140g of the tikka masala paste, stirring well so everything is nicely coated. Season with salt and black pepper, add the tomatoes, breaking them up with the back of a spoon, and the coconut milk, then bring to the boil.\n                Turn the heat down to medium-low, cover and simmer for 20 minutes, then remove the lid and cook for a further 5 minutes, or until the meat is tender and the sauce has reduced, stirring occasionally.\n                Divide the curry between bowls, sprinkle over the almonds and coriander leaves. Add a dollop of yoghurt and a wedge of lemon to each bowl. Delicious served with fluffy rice.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-tikka-masala/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 skinless free-range chicken breasts",
+    "2 onions",
+    "5 cm piece of ginger",
+    "groundnut or vegetable oil",
+    "1 x 400g tin of plum tomatoes",
+    "½ x 400g tin of light coconut milk",
+    "fat-free natural yogurt",
+    "1 lemon",
+    "1-2 fresh red chillies",
+    "2 cloves of garlic",
+    "1 teaspoon cumin seeds",
+    "1 teaspoon coriander seeds",
+    "1 teaspoon cayenne pepper",
+    "1 tablespoon smoked paprika",
+    "2 teaspoons garam masala",
+    "2 tablespoons groundnut oil",
+    "2 tablespoons tomato purée",
+    "1 bunch of fresh coriander",
+    "½ tablespoon desiccated coconut",
+    "2 tablespoons ground almonds"
+  ],
+  "category": "Indian",
+  "image": "chicken-tikka-masala.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44c"
+  },
+  "name": "Lemon Pickle",
+  "description": "Wash and finely chop the lemons, discarding the pips, then deseed and finely slice the chilli.\n                Heat the oil in a small pan over a low heat and add the mustard and cumin seeds. When they start to pop, throw in the curry leaves. Fry for a minute or so, until they’re nice and crisp.\n                Add the lemons, sugar, chilli and a pinch of sea salt. Turn up to a medium heat and cook for around 10 minutes, or until thick, sticky and the lemons have softened.\n                Leave to cool, then store in a sterilised jar in the fridge, where it will keep for up to a week. Delicious served with poppadoms, plain yoghurt and a red onion and tomato salad.\n\n        Source: https://www.jamieoliver.com/recipes/fruit-recipes/lemon-pickle/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 lemons",
+    "1 small fresh red chilli",
+    "2 tablespoons olive oil",
+    "1 tablespoon yellow mustard seeds",
+    "1 teaspoon cumin seeds",
+    "1 small handful curry leaves",
+    "3 tablespoons caster sugar"
+  ],
+  "category": "Indian",
+  "image": "lemon-pickle.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd44f"
+  },
+  "name": "Chickpea Curry",
+  "description": "Peel and finely chop the onions, drain and rinse the chickpeas and finely slice the green chillies.\n                Heat the oil in a saucepan over a medium heat and add the mustard seeds; once they’re crackling, add the asafoetida. Stir in the onions and fry until transparent and turning golden at the edges.\n                Chop and add the tinned tomatoes, then cook for another 5 minutes, before adding the ginger, garlic and green chilli pastes, the red chilli powder, dhana jeera, sugar (if using), and a pinch of sea salt. Keep stirring and cook for further 5 minutes.\n                Stir the chickpeas into the pan. Add 250ml water to make a thick sauce. Place the lid on the pan, lower the heat and simmer for 5 to 7 minutes.\n                Pick and finely chop the coriander, then sprinkle on top along with the garam masala and finely sliced green chillies, to serve.\n                \n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/chickpea-curry/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 medium onions",
+    "1 x 400 g tin chickpeas",
+    "1-2 fresh green chillies",
+    "2 tablespoons sunflower oil",
+    "1 teaspoon mustard seeds",
+    "½ teaspoon asafoetida",
+    "1-2 teaspoon sugar",
+    "½ x 400 g tin of tomatoes",
+    "1 teaspoon fresh ginger paste",
+    "1 teaspoon garlic paste",
+    "1 teaspoon green chilli paste",
+    "1 teaspoon red chilli powder",
+    "1 teaspoon turmeric",
+    "1 teaspoon dhana jeera powder",
+    "1-2 teaspoon sugar",
+    "a few sprigs of fresh coriander",
+    "½ teaspoon garam masala"
+  ],
+  "category": "Indian",
+  "image": "chickpea-curry.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6189e6558dcb7e8380ffd450"
+  },
+  "name": "Lemon Rice",
+  "description": "Throw the rice into boiling water, cook for 10 minutes and drain.\n                Heat the oil in a small frying pan, over a medium heat. Add the mustard seeds and as they begin to pop add the urad dhal, curry leaves and strips of lemon rind (remove these with a vegetable peeler). Leave to cook for 1 minute until the urad dhal and lemon peel are lightly coloured.\n                Add the drained steaming rice to a bowl and pour over the cooked spices, lemon juice and chopped coriander. Season to taste. Serve with a good curry.\n\n        Source: https://www.jamieoliver.com/recipes/rice-recipes/lemon-rice/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "455 g basmati rice",
+    "5 tablespoons vegetable oil",
+    "2 tablespoons mustard seeds",
+    "2 teaspoons urad dhal",
+    "1 handful curry leaves",
+    "2 lemons",
+    "1 bunch fresh coriander",
+    "sea salt",
+    "freshly ground black pepper"
+  ],
+  "category": "Indian",
+  "image": "lemon-rice.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5df"
+  },
+  "name": "Summer pisto frittata",
+  "description": "Preheat the oven to 220°C/425°F/gas 7. Crack the eggs into a mixing bowl and add a pinch of sea salt and black pepper. Whisk together and put to one side.\n                Add the peas, broad beans and a good pinch of salt to a pestle and mortar, then pick in the mint leaves and bash to a rough paste.\n                Stir in the zest and juice of ½ a lemon, a good grating of Parmesan, 2 tablespoons of extra virgin olive oil and a pinch of pepper (you may need to do this in batches). Have a taste and add a little extra Parmesan or lemon juice, if needed.\n                Place a small non-stick ovenproof frying pan (roughly 20cm) on a low heat. Slice the asparagus in half at an angle, then add to the pan with a lug of olive oil and fry gently for a minute or so. Meanwhile, fold half the pisto through the egg to combine.\n                Pour the egg mixture into the pan over the asparagus, then spoon little bombs of the remaining pisto on top. Stir gently for a minute or so, then scatter over the feta and grate a little more Parmesan on top, if you like it extra cheesy.\n                Place the pan in the hot oven for about 5 minutes, or until golden and risen.\n                Meanwhile, roughly chop the tomatoes and add to a bowl with the pea shoots, a small handful of peas and the rocket. Drizzle over a little extra virgin olive oil, add a squeeze of lemon juice and toss to coat. Season lightly with salt and pepper and crumble over the feta, if using.\n                When the frittata is ready, turn it out onto a board and serve with the salad.\n\n        Source: https://www.jamieoliver.com/recipes/eggs-recipes/summer-pisto-frittata/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "6 large free-range eggs",
+    "50 g freshly podded peas ",
+    "50 g freshly podded broad beans",
+    "a few sprigs of fresh mint",
+    "1 lemon",
+    "20 g Parmesan cheese",
+    "extra virgin olive oil",
+    "½ a small bunch of asparagus",
+    "olive oil",
+    "10 g feta cheese",
+    "2 ripe tomatoes",
+    "a small handful of pea shoots",
+    "a small handful of rocket"
+  ],
+  "category": "Spanish",
+  "image": "summer-pisto-frittata.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e0"
+  },
+  "name": "Roasted sweet garlic, bread and almond soup",
+  "description": "Roast the garlic cloves in a preheated oven at 180ºC/350ºF/gas 4 for around half an hour until soft to the touch. Meanwhile, take a large pot and slowly fry the white onion in 4 tablespoons of olive oil for about 10 minutes until really soft and translucent. Add the cream and the stock, bring back to the boil and simmer for 10 minutes, awaiting your garlic. Remove the garlic from the oven and allow to cool slightly before squeezing out all the sweet, golden paste. Whisk this into the soup. Discard the garlic skins.\n                Remove the crusts from your ciabatta, rip up the bread into small pieces and throw into the soup. Add the sherry vinegar, then allow the soup to simmer for 5 more minutes. Whiz it until smooth in your food processor with your toasted almonds. Season nicely to taste and serve in big bowls sprinkled with some orange segments, torn up coriander and mint, and drizzled with a good lug of extra virgin olive oil.\n                Try this: You can eat this cold in the summer – it's obviously going to be thick, which I think is a nice thing, but you can thin it with a little milk or stock if you want to.\n                And this: You may want to big up the sherry vinegar to give it that twang you get with a Spanish gazpacho soup.\n                Or this: There's a similar recipe from Spain where sliced white grapes are added to the soup – this contrasts really well with the garlic, so give it a go. A handful will do. Nice when eaten both hot and cold.\n\n        Source: https://www.jamieoliver.com/recipes/bread-recipes/roasted-sweet-garlic-bread-and-almond-soup/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "3 large bulbs fresh garlic",
+    "1 medium white onion",
+    "extra virgin olive oil",
+    "285 ml single cream",
+    "1 litre organic chicken",
+    "1 large loaf ciabatta bread",
+    "2 tablespoons sherry",
+    "150 g whole blanched almonds",
+    "sea salt",
+    "freshly ground black pepper",
+    "3 oranges",
+    "1 handful fresh coriander",
+    "1 handful fresh mint"
+  ],
+  "category": "Spanish",
+  "image": "roasted-sweet-garlic-bread-and-almond-soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5dd"
+  },
+  "name": "Spanish tortilla",
+  "description": "Peel the potatoes using a speed-peeler, then carefully cut them into thin slices. Pat the potato slices dry with a clean tea towel.\n                Peel and finely slice the onion. Drizzle 2 tablespoons of oil into a small frying pan over a medium heat, then add the onion and potatoes.\n                Turn the heat down to low and cook for 25 to 30 minutes, or until the onions are turning golden and the potato slices are cooked through. Try not to stir it too much or the potatoes will break up – just use a fish slice to flip them over halfway through.\n                Crack the eggs into a mixing bowl, season with a tiny pinch of sea salt and black pepper, then whisk together with a fork.\n                When the onions and potatoes are cooked, remove the pan from the heat and carefully tip them into the eggs. Transfer the mixture back into the frying pan and place it over a low heat. Cook for around 20 minutes, or until there’s almost no runny egg on top.\n                Use a fish slice to slightly lift and loosen the sides of the tortilla. Carefully flip the pan over a dinner plate and tip out the tortilla, then slide it back into the pan and cook for another 5 minutes, or until golden and cooked through.\n                Turn out the tortilla onto a serving board, then cut into 6 wedges and serve hot or cold with a simple green salad.\n\n        Source: https://www.jamieoliver.com/recipes/eggs-recipes/spanish-tortilla/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "300 g waxy potatoes",
+    "1 onion",
+    "olive oil",
+    "5 large free-range eggs"
+  ],
+  "category": "Spanish",
+  "image": "spanish-tortilla.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5de"
+  },
+  "name": "Spanish-style prawns with fennel",
+  "description": "Peel and finely slice the garlic, then trim and slice the fennel. Pick and roughly chop the parsley leaves, and roughly chop the stalks.\n                Heat a good lug of oil in a saucepan and gently fry the garlic till golden.\n                Add the fennel and parsley stalks, then reduce the heat to low and sauté for 10 minutes, or until softened but not coloured.\n                Halve half the tomatoes, leaving the rest whole, then add to the pan with the wine. Bring to the boil, then simmer for 5 to 10 minutes, or until thickened. If it’s too thick, add a splash of water.\n                Peel the prawns, leaving the tails on, then butterfly them by cutting along the back of each one and opening them out like a book.\n                Add to the pan and cook for 4 minutes, or until they’re cooked and pink.\n                Stir through parsley leaves and season. Serve with lemon wedges and nice bread.\n\n        Source: https://www.jamieoliver.com/recipes/seafood-recipes/spanish-style-prawns-with-fennel/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 cloves of garlic",
+    "1 bulb of fennel",
+    "a few sprigs of fresh flat-leaf parsley",
+    "olive oil",
+    "750 g ripe cherry tomatoes",
+    "1 large wineglass of white wine",
+    "10 large raw prawns",
+    "1 lemon"
+  ],
+  "category": "Spanish",
+  "image": "spanish-style-prawns-with-fennel.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e8"
+  },
+  "name": "Vegetable tartlets",
+  "description": "Turn on the oven to 200ºC/gas 6. Carefully cut the pastry block in half with a table knife. Wrap the other half and refrigerate or freeze for later.\n                Dust some flour onto a clean work surface and, using a rolling pin, roll out the pastry into a square, measuring 26cm x 26cm. Cut into 4 equal squares.\n                Place the pastry squares on a baking tray, leaving a space between each.\n                Using the back of a spoon, spread the centre of each square with pesto, but don’t spread it onto the edges.\n                Squash the tomatoes into a large mixing bowl, then snap the asparagus spears into 3cm pieces. Keep the lovely pointy tips and a little of the stalk, but discard the end 3cm.\n                Using a speed peeler, carefully shred the courgettes into ribbons. Tear the roasted peppers into strips and add to the bowl.\n                Pick the basil leaves, reserving the pretty ones for later. Place the large ones in the mixing bowl.\n                Mix the vegetables together in the bowl, adding a splash of oil. Pile a little of the mixture on each pesto-smeared tart and top with two olives (if using).\n                Break up the mozzarella and place little bits on top of each tart – this will make it gooey like a pizza. Grate over some Parmesan (if using).\n                Bake for 15 to 20 minutes, until the pastry is golden and the cheese is all bubbly.\n                Once the tarts are ready, allow to cool slightly. Sprinkle with the reserved basil leaves and serve with a nice salad for lunch.\n\n        Source: https://www.jamieoliver.com/recipes/vegetables-recipes/vegetable-tartlets/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 x 500 g block of ready-made puff pastry",
+    "plain flour",
+    "4 teaspoons pesto",
+    "1 handful of ripe cherry tomatoes",
+    "8 asparagus spears",
+    "4 baby courgettes",
+    "2-3 jarred roasted peppers",
+    "½ a bunch of fresh basil",
+    "olive oil",
+    "8 black olives",
+    "1 x 100 g ball mozzarella",
+    "20 g Parmesan cheese"
+  ],
+  "category": "Spanish",
+  "image": "vegetable-tartlets.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5ea"
+  },
+  "name": "Pineapple tatin",
+  "description": "Preheat the oven to 220ºC/gas 7.\n                Remove the pastry from the freezer so it’s partially thawed but still cold when you use it.\n                Using a sharp knife, remove the top, skin and eyes from the pineapple. Slice in half horizontally and then again vertically, and remove and discard the fibrous cores. Cut into 1cm slices and set aside.\n                Melt the butter in a large pan over a medium heat then sprinkle in the sugar and cook, swirling the pan occasionally, until it begins to caramelise. When the caramel is dark but not burnt, add 12 to 15 pineapple slices and cook for 6 to 8 minutes, or until they soften a little.\n                Arrange the pineapple in overlapping circles in a 24cm ovenproof pan. Pour over the caramel then lay the pastry on top, tucking the edge between the fruit and the pan.\n                Bake in the centre of the oven for 20 to 25 minutes, or until the pastry is puffed and golden. Leave to rest for a few minutes before inverting onto a warm plate.\n                Serve the pineapple tatin with some thick cream or crème fraîche.\n\n        Source: https://www.jamieoliver.com/recipes/fruit-recipes/pineapple-tatin/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1 large sheet of frozen all butter puff pastry",
+    "1 pineapple",
+    "60 g unsalted butter",
+    "100 g caster sugar"
+  ],
+  "category": "Spanish",
+  "image": "pineapple-tatin.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e2"
+  },
+  "name": "Spanish fish and chorizo soup",
+  "description": "Heat a large pan on a medium heat, add a good lug of olive oil, the sliced garlic, chopped chillies and chopped basil stalks. Fry everything together for a minute then add the sliced chorizo. Cook for another few minutes until the sausage starts to brown, then pour in the white wine, tinned tomatoes, rice and chickpeas. Season well and simmer for 10 minutes, until the rice is just about cooked.\n                Meanwhile, put a frying pan on a medium heat to make the pangrattato. Add 3 tablespoons of olive oil and let it heat up for a minute or so, then add the breadcrumbs, flat-leaf parsley and lemon zest. Fry for a couple of minutes until it’s all golden brown and crispy then put to one side.\n                After the soup has simmered for 10 minutes, it should have thickened a little, so stir in about 200ml of hot water and bring everything to the boil. Cut each of the fish fillets into three pieces, then, carefully, so you don’t get splashed by any of the hot liquid, place them and the prawns into the mixture. Cook for a further 5 minutes until the fish is cooked through and the prawns are pink.\n                When the fish is perfectly cooked, stir through the basil leaves. Ladle the soup into warm bowls and top each with a nice big spoonful of pangrattato. Serve with a few wedges of lemon to squeeze over the finished dish and enjoy all those gorgeous flavours!\n\n        Source: https://www.jamieoliver.com/recipes/fish-recipes/spanish-fish-and-chorizo-soup/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "olive oil",
+    "2 cloves garlic",
+    "2 fresh red chillies",
+    "1 bunch fresh basil",
+    "1 iberico sausage , around 200g",
+    "½ bottle white wine",
+    "2 x 400 g tinned plum tomatoes",
+    "1 handful basmati rice",
+    "400 g tinned chickpeas",
+    "sea salt",
+    "freshly ground black pepper",
+    "2 bream fillets",
+    "2 pollock fillets",
+    "12 raw prawns",
+    "2 handfuls breadcrumbs",
+    "1 bunch fresh flat-leaf parsley",
+    "1 lemon"
+  ],
+  "category": "Spanish",
+  "image": "spanish-fish-and-chorizo-soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e3"
+  },
+  "name": "Patatas bravas",
+  "description": "Parboil the potatoes over a medium heat for 10 to 15 minutes, or until they are starting to get tender but still hold their shape. Drain in a colander and leave to steam dry until cool.\n                Meanwhile, put a pan on a lowheat and start your bravas sauce. Add a lug of olive oil and, once hot, add the chopped onion and sliced garlic. Cook for 5 minutes, or until the onion is soft but not coloured. Add the chillies, carrot and thyme leaves and cook for another 5 minutes. Add the tinned tomatoes, sherry vinegar and a good pinch of sea salt and black pepper. Bring to the boil, then turn the heat down and simmer for 15 minutes, or until the carrots are soft and the sauce is lovely and thick.\n                While your sauce simmers, put a large frying pan on a medium heat and add 0.5cm of olive oil. Cut your potatoes into large bite-sized chunks. Once the oil is hot, carefully add your potatoes to the pan. Cook them for around 8 minutes, turning occasionally, until golden all over. You’ll need to do this in batches so you don’t overcrowd the pan. Add your garlic and rosemary leaves to the pan for the last minute of cooking.\n                Transfer the potatoes, garlic and rosemary to a plate lined with kitchen paper to drain, then scatter over the paprika, fennel seeds and a good pinch of salt and toss together until well coated.\n                Carefully tip your cooked sauce into a blender, or use a hand blender, and whiz until lovely and smooth. Have a taste, and adjust the seasoning if necessary. Serve in a jug next to your potatoes or, if youwant to be more traditional, pour the sauce over your potatoes before serving and toss together like I've done here. If you have any leftover sauce, use it with pasta or on a homemade pizza.\n\n        Source: https://www.jamieoliver.com/recipes/potato-recipes/patatas-bravas/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "4 medium potatoes",
+    "2 cloves of garlic",
+    "2 sprigs of fresh rosemary",
+    "1 teaspoon sweet paprika",
+    "1 teaspoon fennel seeds",
+    "olive oil",
+    "1 onion",
+    "3 fresh red chillies",
+    "1 carrot",
+    "a few sprigs of fresh thyme",
+    "1 x 400 g tin of chopped tomatoes",
+    "1 tablespoon sherry vinegar"
+  ],
+  "category": "Spanish",
+  "image": "patatas-bravas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e4"
+  },
+  "name": "Chicken Paella",
+  "description": "Preheat the oven to 180ºC/gas 4.\n                Slice the chorizo, peel and finely dice the onion, and finely dice the peppers. Pick and finely chop the parsley.\n                Season the drumettes all over with sea salt and black pepper. Place a 30cm ovenproof sauté pan over a medium-high heat, add the oil, then add the chicken drumettes, in batches, and brown well on all sides. Remove the chicken from the pan and set aside.\n                Add the chorizo and onions to the pan, and cook until the onions are softened – about 4 minutes. Add the piquillo peppers, paprika and tomato pureé, season and cook until the tomato pureé bubbles.\n                Add the rice to the pan and stir well to coat it evenly with the tomato mixture. Cook the rice for about 3 minutes.\n                Add the wine, stir through and bring to the boil. Once the rice has absorbed the wine, add 750ml hot water or stock, then stir in the peas and half the parsley. Arrange all of the chicken drumettes on top of the rice, in a spoke pattern.\n                Bring the paella back to the boil then transfer to the oven and bake, uncovered, for 30 minutes, or until the rice is nice and tender.\n                Remove the paella from the oven, cover lightly with foil and leave to rest for about 10 minutes.\n                Serve with the rest of the parsley on top and lemon wedges on the side.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-paella/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "400 g quality chorizo",
+    "1 small onion",
+    "50 g jarred piquillo peppers",
+    "½ a bunch of fresh flat-leaf parsley",
+    "22 free-range chicken drumettes",
+    "2 tablespoons extra virgin olive oil",
+    "1 teaspoon smoked paprika",
+    "2 tablespoon tomato pureé",
+    "400 g Bomba paella rice",
+    "120 ml white wine",
+    "750 ml organic chicken stock",
+    "200 g frozen peas",
+    "1 lemon"
+  ],
+  "category": "Spanish",
+  "image": "chicken-paella.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e5"
+  },
+  "name": "Crema Catalana",
+  "description": "Put the milk, orange and lemon zest and cinnamon in a saucepan. Split the vanilla pod lengthways and add this too, then gently bring to the boil.\n                Remove from the heat and allow to infuse for 15 minutes.\n                Meanwhile, whisk the egg yolks with the sugar and cornflour until pale and creamy.\n                Pass the milk through a sieve and discard everything else, then return the milk to the pan and place over a medium heat.\n                Just before it reaches boiling point, slowly add the egg mixture, whisking continuously for about 7 minutes, or until it begins to thicken and coats the back of a wooden spoon.\n                Remove it from the heat and pour into individual dishes or ramekins.\n                Cover each serving with a disc of greaseproof paper to prevent a skin from forming, and let it cool before placing in the fridge.\n                To serve, remove the greaseproof paper, sprinkle 1 tablespoon of sugar on top of each crema and caramelise using a blowtorch. Alternatively, place the sugared cremas on a tray under a preheated gas grill for a few minutes, until the sugar turns dark brown. Allow the sugar to harden, then serve immediately.\n\n        Source: https://www.jamieoliver.com/recipes/eggs-recipes/crema-catalana/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "500 ml whole milk",
+    "½ an orange",
+    "½ a lemon",
+    "½ a stick of cinnamon",
+    "1 vanilla pod",
+    "7 large free-range egg yolks",
+    "95 g sugar",
+    "1 heaped tesapoon cornflour"
+  ],
+  "category": "Spanish",
+  "image": "crema-catalana.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e6"
+  },
+  "name": "Avocado pastry quiche",
+  "description": "Halve, destone and peel the avocados. Weigh the flesh – you want 200g to get your ratios right (if you don’t have enough, simply top up to 200g with extra virgin olive oil). In a large bowl, smash up the avo, then gradually rub in the flour, a pinch of sea salt and 4 tablespoons of cold water until you have a dough. Knead until smooth, then wrap and rest for 15 minutes. For the filling, crack the eggs into a blender, then add the frozen peas and most of the Cheddar. Rip in the top leafy half of the basil, add a pinch of salt and black pepper, and blitz until smooth.\n\n                Preheat the oven to 200°C/400°F/gas 6. Roll out the avocado pastry on a flour-dusted surface to just under ½cm thick. Loosely roll it up around the rolling pin, then unroll it over an oiled 25cm x 35cm baking tray, ease it into the sides and prick the base. Roughly tear off any big bits of overhang, then bake for 10 minutes, or until lightly golden. Evenly pour in the filling and bake for another 15 minutes, or until set, then finely grate over the remaining cheese. Dress the salad leaves with extra virgin olive oil and lemon juice, season, then sprinkle over the quiche to serve.\n\n        Source: https://www.jamieoliver.com/recipes/quiche-recipes/avocado-pastry-quiche/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "2 ripe avocados",
+    "extra virgin olive oil",
+    "400g self-raising flour",
+    "6 large free-range eggs",
+    "300 g frozen peas",
+    "90 g Cheddar cheese",
+    "½ a bunch of basil",
+    "olive oil",
+    "100 g bag of mixed salad",
+    "1 lemon"
+  ],
+  "category": "Spanish",
+  "image": "avocado-pastry-quiche.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e1"
+  },
+  "name": "Spanish roast chicken",
+  "description": "First preheat your oven to 220ºC/425ºF/gas 7, then place your potatoes with 2 of your lemons into a small pan of water and boil for 5 minutes. Drain, and then prick the lemons all over with a knife. (The reason for doing this is that you are going to put them inside the chicken and their wonderful juices will be released while cooking. They will burst with flavour and fragrance, and the heat from the lemons will help the chicken to cook quicker from the inside as well as making it taste and smell amazing.) Remove the parsley leaves from the stalks and put to one side. Stuff the chicken with your hot lemons and the parsley stalks. Then season the chicken and the potatoes with a tiny pinch of salt and freshly ground black pepper, and slice your chorizo at an angle, 0.5cm/¼ inch thick.\n                Get yourself an appropriately sized baking tray. Take a piece of greaseproof paper and wet it under a tap so it becomes flexible, then shake it out and lay it into the baking tray. Place the potatoes into the centre of the greaseproof paper, then place the chicken on top and sprinkle with the chorizo and a little of your chopped parsley. Drizzle with a little olive oil. Cook in the preheated oven for around 1 hour 20 minutes.\n                While the chicken and potatoes are cooking you can make what the Italians call gremolata, by finely chopping the zest of your 2 remaining lemons and mixing it with the chopped parsley and garlic. Season with a little pinch of salt and freshly ground black pepper and toss together to create a really fragrant seasoning-type garnish. Remove the tray from the oven, take the chicken out and put to one side to rest. Give the potatoes a shake about and put them back in the oven for a few minutes to crisp up.\n                Carve the chicken and divide between 8 plates, with the potatoes. The potatoes will have taken on the smoky paprika flavour from the chorizo, so if there is any juice left over in the tray, pour every last drop over the plates. When you sprinkle over the gremolata it will hit the hot juice and smell fantastic. You're going to love this one! A rocket salad goes really well with it.\n\n        Source: https://www.jamieoliver.com/recipes/chicken-recipes/super-tasty-spanish-roast-chicken/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "1.6 kg potatoes",
+    "4 lemons",
+    "1 handful fresh flat-leaf parsley",
+    "2 kg higher-welfare chicken",
+    "sea salt",
+    "freshly ground black pepper",
+    "300 g iberico chorizo sausage",
+    "olive oil",
+    "2 cloves garlic"
+  ],
+  "category": "Spanish",
+  "image": "spanish-roast-chicken.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e7"
+  },
+  "name": "Spanikopita",
+  "description": "Preheat the oven to 220ºC/425ºF/gas 7.\n                Wash and spin dry the rocket and spinach thoroughly. Divide between two large baking trays, about 2.5cm deep – keep in mind it will wilt down.\n                Trim the spring onions and cut into 2.5cm lengths, then add to the trays. Drizzle each tray with 2 tablespoons of oil and sprinkle with black pepper.\n                Rub everything to combine, then roast the leaves for 20 to 25 minutes, or until slightly charred, tossing halfway through with tongs. There should not be any liquid left – if there is, squeeze it out.\n                Reduce the oven temperature to 200ºC/400ºF/gas 6.\n                Meanwhile, toast the sesame seeds in a small frying pan over a medium heat until golden brown. Remove from the heat and set aside or later.\n                Let the leaves cool, then transfer to a bowl or tray. Roughly chop the dill and add to the leaves. Crumble over the feta, then toss everything together. Taste and adjust the seasoning.\n                Brush a shallow baking tray (30 x 24 x 2.5cm) with some of the remaining oil. Place 1 sheet of filo on the tray, allowing the pastry to hang over the sides.\n                Lightly brush with oil and sprinkle with a pinch of sesame seeds. Place another sheet of filo in the opposite direction, again allowing some overhang. Lightly brush with oil and a pinch of sesame seeds. Continue until you have used six sheets.\n                Lay the spinach mix over the pastry. Place another sheet of filo on top, folding it in two. Lightly brush with oil and sesame seeds.\n                Gently fold over the edges of the bottom layers of pastry. Add 2 more sheets of filo, again brushing with oil and sprinkling sesame seeds in between.\n                Finish with a light brush of oil and sesame seeds, and gently score the top into 8 squares, using a sharp knife.\n                Bake for 50 minutes, or until golden brown. (It will look done after 30 to 40 minutes, but have faith.) Leave it to rest for 10 minutes, then slide off the baking tray, slice into portions and serve.\n\n        Source: https://www.jamieoliver.com/recipes/vegetable-recipes/spanikopita/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "200 g rocket",
+    "1 kg spinach",
+    "2 bunches of spring onions",
+    "100 ml olive oil",
+    "4 tablespoons sesame seeds",
+    "1 large bunch of fresh dill",
+    "300 g feta cheese",
+    "1 x 270 g pack of filo pastry"
+  ],
+  "category": "Spanish",
+  "image": "spanikopita.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5eb"
+  },
+  "name": "Profiteroles",
+  "description": "Preheat the oven to 200ºC/400ºF/gas 6 and grease a baking sheet.\n                For the choux pastry, melt the butter in a saucepan with 220ml of water then bring to a rolling boil.\n                Sift the flour and 1 pinch of fine sea salt onto a piece of folded greaseproof paper, then quickly pour into the boiling water.\n                Beat the pastry mixture vigorously with a wooden spoon until it’s smooth and the bottom of the pan is beginning to fur, then spread out on a plate and leave to cool for 20 minutes.\n                Meanwhile, prepare the filling. Crush the pistachios. Place the cream and most of the pistachios in a small saucepan and slowly bring to the boil. Remove from the heat and leave to infuse until ready to use.\n                Beat the eggs. Once the pastry is cool, return it to the saucepan and gradually beat in the beaten egg until the pastry mixture reaches a consistency that lazily drops off the spoon (you may not need all of the beaten egg).\n                Using teaspoons, space out small dollops of pastry mixture on the prepared baking sheet. Bake for 25 minutes, or until golden brown.\n                Once cooked, use a skewer or drinking straw to pierce holes in the bases of the profiteroles, then leave them upside down on a wire rack to dry completely.\n                When you’re ready to fill the profiteroles, strain the cream and discard the pistachios. Whip the cream with the icing sugar and vanilla essence until it holds its shape. Transfer to a piping bag and pipe a teaspoonful or so into the centre of each profiterole.\n                Break the chocolate into bites, then melt in a heatproof bowl set over a pan of simmering water (without letting the bowl touch the water).\n                Arrange the profiteroles on a platter and drizzle over some of the melted chocolate. Serve the leftover chocolate in a small jug on the side.\n\n        Source: https://www.jamieoliver.com/recipes/chocolate-recipes/profiteroles/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "50 g shelled pistachios",
+    "250 ml double cream",
+    "3 tablespoons icing sugar",
+    "1 teaspoon vanilla essence",
+    "100 g dark chocolate",
+    "85 g unsalted butter",
+    "100 g plain flour",
+    "3 large free-range eggs"
+  ],
+  "category": "Spanish",
+  "image": "profiteroles.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618a3b2532b546e9b779d5e9"
+  },
+  "name": "Mixed-veg pasta",
+  "description": "Peel (or trim) and finely chop the alliums. Roughly dice the Mediterranean veg.\n                Place a large pan on a medium heat with the oil.\n                Add the alliums, then cover and cook gently for 15 minutes or until softened, stirring occasionally.\n                Tip in the remaining veg and continue cooking for 15 minutes or until softened.\n                Meanwhile, if baking, preheat the oven to 190°C/375°F/gas 5.\n                Cook the pasta in a pan of boiling salted water according to the packet instructions, then drain.\n                Add the tomato base sauce to the veg pan and bring to the boil.\n                Tip in the cooked pasta and toss through the sauce and veg. Season to taste.\n                Serve just as it is with a sprinkling of cheese, or spoon into a large baking tray (40cm x 60cm), grate over the cheese and bake for 30 minutes or until golden and bubbling.\n\n        Source: https://www.jamieoliver.com/recipes/pasta-recipes/mixed-veg-pasta/",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "700 g alliums",
+    "1 kg Mediterranean veg",
+    "40 ml olive or rapeseed oil",
+    "850 g dried pasta",
+    "2 litres tomato base sauce",
+    "175 g hard cheese"
+  ],
+  "category": "Spanish",
+  "image": "mixed-veg-pasta.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a1c31fdd5042efb22de537"
+  },
+  "name": "crispy corn",
+  "description": "take corn and boil them",
+  "email": "abc@gmail.com",
+  "ingredients": [
+    "corn",
+    "flour"
+  ],
+  "category": "Indian",
+  "image": "1637991199159crispycorn.jpg",
+  "__v": 0
+}]

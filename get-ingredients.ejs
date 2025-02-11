@@ -1,0 +1,72 @@
+<h1>Ingredients</h1>
+
+<% if(checks !=null ) { %>
+    <div class="container">
+
+        <% checks.forEach(function(x, index){ %>
+            <div class="row">
+                <div class="col-6">
+
+
+                    <li class="list-group-item">
+                        <%= x %>
+                    </li>
+                </div>
+            </div>
+            <% }) %>
+
+                <% c.forEach(function(y, index){ %>
+                    <!--<div class="col-6">-->
+
+                    <div class="d-inline">
+                        <%=y%>
+                    </div>
+
+                    <!--</div>-->
+
+
+
+                    <% }) %>
+                        <h4 class="my-2 text-end">Total: <span
+                                class="badge badge-pill badge-primary text-end">Primary</span>
+                            <%= sums%>
+                                </span>
+                        </h4>
+                        <form action="/">
+                            <div class="form-group">
+                                <label class="my-1">Phone Number</label>
+                                <input class="form-control my-1" placeholder="Enter Phone Number">
+
+                            </div>
+                            <div class="form-group">
+                                <label class="my-1">Pin Code</label>
+                                <input class="form-control my-1" placeholder="Enter Pin Code">
+
+                            </div>
+                            <div class="form-group">
+                                <label class="my-1">Address</label>
+                                <input class="form-control my-1" placeholder="Enter Address">
+                            </div>
+                            <div class="form-group">
+                                <label class="my-1">City</label>
+                                <input class="form-control my-1" placeholder="Enter City">
+                            </div>
+                            <div class="form-group">
+                                <label class="my-1">State</label>
+                                <input class="form-control my-1" placeholder="Enter State">
+                            </div>
+                            <button type="submit" class="btn btn-primary my-2" onclick="res()">Check
+                                Out</button>
+                        </form>
+                        <script>
+                            function res() {
+                                var a = Math.floor(Math.random() * (31)) + 30;
+                                alert("Your Order arrives in " + a + " minutes");
+                            }
+
+
+                        </script>
+    </div>
+    <% } else { %>
+        <p>No item found.</p>
+        <% } %>

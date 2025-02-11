@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f154"
+  },
+  "name": "American",
+  "image": "american-food.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f157"
+  },
+  "name": "Indian",
+  "image": "indian-food.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f153"
+  },
+  "name": "Thai",
+  "image": "thai-food.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f156"
+  },
+  "name": "Mexican",
+  "image": "mexican-food.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f155"
+  },
+  "name": "Chinese",
+  "image": "chinese-food.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c208617528bfc2ee9f158"
+  },
+  "name": "Spanish",
+  "image": "spanish-food.jpg",
+  "__v": 0
+}]

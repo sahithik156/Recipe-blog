@@ -1,0 +1,115 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+    .checked {
+        color: orange;
+
+    }
+</style>
+<% if(recipe !=null ) { %>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">
+                <%- recipe.name %>
+            </li>
+        </ol>
+    </nav>
+    <div class="row">
+        <div class="col-12 col-md-4">
+            <img src="/img/<%- recipe.image %>" class="img-fluid sticky-top" style="top: 20px;" alt="<%- recipe.name %>"
+                loading="lazy">
+        </div>
+        <div class="col-12 col-md-8">
+            <div class="row">
+                <div class="col-12">
+                    <h1>
+                        <%- recipe.name %>
+                    </h1>
+                </div>
+                <div class="col-12 mb-4"><i class="bi bi-tag"></i>
+                    <%- recipe.category %>
+                </div>
+
+                <div class="col-12" style="white-space: pre-line;">
+                    <h4>Cooking Instructions</h4>
+                    <%- recipe.description %>
+                </div>
+            </div>
+            <div class="row pt-4 py-2">
+                <div class="col-12">
+                    <h4>Ingredients</h4>
+                    <!-- <ul class="list-group list-group-flush">-->
+                    <form action="/get-ingredients" method="POST">
+                        <% recipe.ingredients.forEach(function(ingredients, index){ %>
+                            <li class="list-group-item">
+                                <input type="checkbox" class="form-check-input me-1" name="abc"
+                                    value="<%= ingredients %>">
+                                <%= ingredients %>
+                            </li>
+                            <% }) %>
+
+                                <button type="submit" class="btn btn-primary mx-2 my-2">Get Ingredients</button>
+                                <br>
+                                <span onmouseover="starmark(this)" onclick="starmark(this)" id="1one"
+                                    style="font-size:40px;cursor:pointer;" class="fa fa-star checked"></span>
+                                <span onmouseover="starmark(this)" onclick="starmark(this)" id="2one"
+                                    style="font-size:40px;cursor:pointer;" class="fa fa-star "></span>
+                                <span onmouseover="starmark(this)" onclick="starmark(this)" id="3one"
+                                    style="font-size:40px;cursor:pointer;" class="fa fa-star "></span>
+                                <span onmouseover="starmark(this)" onclick="starmark(this)" id="4one"
+                                    style="font-size:40px;cursor:pointer;" class="fa fa-star"></span>
+                                <span onmouseover="starmark(this)" onclick="starmark(this)" id="5one"
+                                    style="font-size:40px;cursor:pointer;" class="fa fa-star"></span>
+                                <br />
+                                <textarea style="margin-top:5px;" class="form-control" rows="3" id="comment"
+                                    placeholder="Enter your review"></textarea>
+
+                                <button onclick="result()" type="button"
+                                    class="btn btn-lg btn-success my-2">Submit</button>
+                    </form>
+                    <!-- </ul>-->
+                </div>
+            </div>
+            <!--<button onclick="/get-ingredients" class="xyz" name="xyz">Get ingredients</button>-->
+            <!--<a href="/get-ingredients" class="btn btn-primary pb-2">get ingredients</a>-->
+        </div>
+
+
+
+
+
+
+        <script>
+            var count;
+
+            function starmark(item) {
+                count = item.id[0];
+                sessionStorage.starRating = count;
+                var subid = item.id.substring(1);
+                for (var i = 0; i < 5; i++) {
+                    if (i < count) {
+                        document.getElementById((i + 1) + subid).style.color = "orange";
+                    }
+                    else {
+                        document.getElementById((i + 1) + subid).style.color = "black";
+                    }
+
+
+                }
+
+            }
+
+            function result() {
+                //Rating : Count
+                //Review : Comment(id)
+                alert("Rating : " + count + "\nReview : " + document.getElementById("comment").value);
+            }
+
+        </script>
+    </div>
+    <% } else { %>
+        <p>No item found.</p>
+        <% } %>
